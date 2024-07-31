@@ -1,0 +1,113 @@
+{
+  "snapshotDates": [
+    "2024-06-11",
+    "2024-06-12"
+  ],
+  "totalNewFiles": 1,
+  "totalNewVolumeInMonths": 0.20266666666666666,
+  "totalNewVolumeInLoc": 152,
+  "newFiles": [
+    {
+      "moduleId": 85296412,
+      "path": "src/app/sudoku/Box.java",
+      "volumeInMonths": 0.20266666666666666,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.01963036963036964,
+      "moduleCouplingRiskDelta": 0.0
+    }
+  ],
+  "oldMaintainabilityRating": 4.180015349673797,
+  "maintainabilityRating": 4.160044234629032,
+  "oldOnlyChangedModulesRating": null,
+  "newCodeRating": 5.350862160293379,
+  "volumeInMonths": 0.504,
+  "volumeInLoc": 378,
+  "duplication": {
+    "old": {
+      "rating": 5.5,
+      "lowRisk": 100.0,
+      "moderateRisk": 0,
+      "highRisk": 0,
+      "veryHighRisk": 0.0
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 5.5,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitSize": {
+    "old": {
+      "rating": 5.30251250560516,
+      "lowRisk": 95.06105263157895,
+      "moderateRisk": 4.938947368421053,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 5.5,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitComplexity": {
+    "old": {
+      "rating": 5.5,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 5.5,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitInterfacing": {
+    "old": {
+      "rating": 5.1221167508086705,
+      "lowRisk": 97.44571428571429,
+      "moderateRisk": 2.554285714285714,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 4.306897282347032,
+      "lowRisk": 91.6083916083916,
+      "moderateRisk": 8.391608391608392,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  },
+  "moduleCoupling": {
+    "old": {
+      "rating": 0.8151934637202608,
+      "lowRisk": 60.266666666666666,
+      "moderateRisk": 0.0,
+      "highRisk": 39.733333333333334,
+      "veryHighRisk": 0.0
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": null,
+      "lowRisk": 0.0,
+      "moderateRisk": 0.0,
+      "highRisk": 100.0,
+      "veryHighRisk": 0.0
+    }
+  }
+}

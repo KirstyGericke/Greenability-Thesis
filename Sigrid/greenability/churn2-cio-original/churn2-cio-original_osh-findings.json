@@ -1,0 +1,89 @@
+{
+  "bomFormat" : "CycloneDX",
+  "specVersion" : "1.5",
+  "version" : 1,
+  "metadata" : {
+    "timestamp" : "2024-06-12T10:13:23Z",
+    "tools" : [
+      {
+        "vendor" : "Software Improvement Group",
+        "name" : "Sigrid",
+        "version" : "2024_osh_sig",
+        "externalReferences" : [
+          {
+            "type" : "other",
+            "url" : "https://sigrid-says.com/sigdelivery/churn2-cio-original/-/open-source-health"
+          }
+        ]
+      }
+    ]
+  },
+  "components" : [
+    {
+      "group" : "org.apache.commons",
+      "name" : "commons-parent",
+      "version" : "25",
+      "licenses" : [ ],
+      "purl" : "pkg:maven/org.apache.commons/commons-parent@25",
+      "properties" : [
+        {
+          "name" : "sigrid:transitive",
+          "value" : "DIRECT"
+        },
+        {
+          "name" : "sigrid:risk:vulnerability",
+          "value" : "NONE"
+        },
+        {
+          "name" : "sigrid:risk:legal",
+          "value" : "NONE"
+        },
+        {
+          "name" : "sigrid:risk:freshness",
+          "value" : "CRITICAL"
+        },
+        {
+          "name" : "sigrid:risk:activity",
+          "value" : "NONE"
+        },
+        {
+          "name" : "sigrid:risk:stability",
+          "value" : "NONE"
+        },
+        {
+          "name" : "sigrid:risk:management",
+          "value" : "NONE"
+        },
+        {
+          "name" : "sigrid:releaseDate",
+          "value" : "2012-04-27"
+        },
+        {
+          "name" : "sigrid:next:version",
+          "value" : "26"
+        },
+        {
+          "name" : "sigrid:next:releaseDate",
+          "value" : "2012-08-18"
+        },
+        {
+          "name" : "sigrid:latest:version",
+          "value" : "71"
+        },
+        {
+          "name" : "sigrid:latest:releaseDate",
+          "value" : "2024-06-07"
+        }
+      ],
+      "evidence" : {
+        "occurrences" : [
+          {
+            "location" : "pom.xml"
+          }
+        ]
+      },
+      "type" : "library",
+      "bom-ref" : "pkg:maven/org.apache.commons/commons-parent@25"
+    }
+  ]
+}

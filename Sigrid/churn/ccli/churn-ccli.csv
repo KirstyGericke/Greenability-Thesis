@@ -1,0 +1,25 @@
+System,Refactoring,Refactoring Number,totalNewFiles,totalNewVolumeInMonths,totalNewVolumeInLoc
+ccli,extractmethod,1,1,0.20666666666666667,155
+ccli,extractmethod,2,1,0.14533333333333334,109
+ccli,extractmethod,3,1,0.2786666666666667,209
+ccli,extractmethod,4,1,0.13466666666666666,101
+ccli,extractvariable,1,0,0,0
+ccli,extractvariable,2,0,0,0
+ccli,extractvariable,3,0,0,0
+ccli,extractvariable,4,0,0,0
+ccli,inline,1,1,0.21466666666666667,161
+ccli,inline,2,1,0.5613333333333334,421
+ccli,inline,3,1,0.364,273
+ccli,inline,4,1,0.16,120
+ccli,introduceindirection,1,1,0.2813333333333333,211
+ccli,introduceindirection,2,1,0.14533333333333334,109
+ccli,introduceindirection,3,1,0.20666666666666667,155
+ccli,introduceindirection,4,1,0.2786666666666667,209
+ccli,introducepo,1,1,0.009333333333333334,7
+ccli,introducepo,2,1,0.009333333333333334,7
+ccli,introducepo,3,2,0.152,114
+ccli,introducepo,4,2,0.29600000000000004,222
+ccli,variabletofield,1,1,0.204,153
+ccli,variabletofield,2,1,0.084,63
+ccli,variabletofield,3,1,0.556,417
+ccli,variabletofield,4,1,0.14266666666666666,107

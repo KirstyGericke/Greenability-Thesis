@@ -1,0 +1,267 @@
+{
+  "snapshotDates": [
+    "2024-06-11",
+    "2024-06-12"
+  ],
+  "totalNewFiles": 15,
+  "totalNewVolumeInMonths": 3.486666666666667,
+  "totalNewVolumeInLoc": 2615,
+  "newFiles": [
+    {
+      "moduleId": 85252163,
+      "path": "src/main/java/org/apache/commons/math3/analysis/interpolation/SmoothingPolynomialBicubicSplineInterpolator.java",
+      "volumeInMonths": 0.1,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85250718,
+      "path": "src/main/java/org/apache/commons/math3/analysis/interpolation/UnivariatePeriodicInterpolator.java",
+      "volumeInMonths": 0.07333333333333333,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85246841,
+      "path": "src/main/java/org/apache/commons/math3/optimization/univariate/BaseAbstractUnivariateOptimizer.java",
+      "volumeInMonths": 0.10266666666666667,
+      "status": "changed",
+      "duplicationRiskDelta": -0.07547168911628004,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85251875,
+      "path": "src/main/java/org/apache/commons/math3/analysis/solvers/UnivariateSolverUtils.java",
+      "volumeInMonths": 0.21733333333333332,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": -0.014578430809849219,
+      "unitComplexityRiskDelta": -0.014578430809849219,
+      "unitInterfacingRiskDelta": -0.013430522872065698,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85251638,
+      "path": "src/main/java/org/apache/commons/math3/optimization/univariate/BracketFinder.java",
+      "volumeInMonths": 0.20133333333333334,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85250806,
+      "path": "src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java",
+      "volumeInMonths": 0.16133333333333333,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85250347,
+      "path": "src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java",
+      "volumeInMonths": 0.14666666666666667,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85250975,
+      "path": "src/main/java/org/apache/commons/math3/optimization/general/NonLinearConjugateGradientOptimizer.java",
+      "volumeInMonths": 0.21733333333333332,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85250415,
+      "path": "src/main/java/org/apache/commons/math3/ode/events/EventState.java",
+      "volumeInMonths": 0.228,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85250618,
+      "path": "src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java",
+      "volumeInMonths": 0.7666666666666667,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85250638,
+      "path": "src/main/java/org/apache/commons/math3/linear/RealVector.java",
+      "volumeInMonths": 0.752,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85251003,
+      "path": "src/main/java/org/apache/commons/math3/analysis/solvers/AbstractDifferentiableUnivariateSolver.java",
+      "volumeInMonths": 0.036,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85250628,
+      "path": "src/main/java/org/apache/commons/math3/optimization/direct/MultivariateFunctionMappingAdapter.java",
+      "volumeInMonths": 0.15066666666666667,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85251334,
+      "path": "src/main/java/org/apache/commons/math3/analysis/polynomials/PolynomialSplineFunction.java",
+      "volumeInMonths": 0.09733333333333333,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": -0.017868338557993746,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 3.0
+    },
+    {
+      "moduleId": 85250131,
+      "path": "src/main/java/org/apache/commons/math3/analysis/FunctionUtils.java",
+      "volumeInMonths": 0.236,
+      "status": "changed",
+      "duplicationRiskDelta": -0.0023496240601503793,
+      "unitSizeRiskDelta": 0.005390835579514808,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": -0.002656353763818897,
+      "moduleCouplingRiskDelta": 0.0
+    }
+  ],
+  "oldMaintainabilityRating": 2.7381417920365743,
+  "maintainabilityRating": 2.7360394851156937,
+  "oldOnlyChangedModulesRating": null,
+  "newCodeRating": 2.12238616264174,
+  "volumeInMonths": 91.05060869565223,
+  "volumeInLoc": 70081,
+  "duplication": {
+    "old": {
+      "rating": 3.3604665322680622,
+      "lowRisk": 94.2628726548592,
+      "moderateRisk": 0,
+      "highRisk": 0,
+      "veryHighRisk": 5.737127345140798
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 3.4699458872711326,
+      "lowRisk": 94.60415541046552,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 5.39584458953448
+    }
+  },
+  "unitSize": {
+    "old": {
+      "rating": 2.448282873478466,
+      "lowRisk": 54.240318982333456,
+      "moderateRisk": 17.334796145151383,
+      "highRisk": 15.085694144600609,
+      "veryHighRisk": 18.73595629378332
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 2.4389434408389747,
+      "lowRisk": 55.610852890343175,
+      "moderateRisk": 20.71823585508917,
+      "highRisk": 4.670041953965153,
+      "veryHighRisk": 19.000869300602492
+    }
+  },
+  "unitComplexity": {
+    "old": {
+      "rating": 2.1497294080290947,
+      "lowRisk": 61.38476450632242,
+      "moderateRisk": 13.75040811552594,
+      "highRisk": 10.71462576417882,
+      "veryHighRisk": 8.166416641822481
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 2.5560709504425585,
+      "lowRisk": 79.35579475815275,
+      "moderateRisk": 5.666050750324053,
+      "highRisk": 14.978154491523195,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitInterfacing": {
+    "old": {
+      "rating": 2.5803974675589068,
+      "lowRisk": 82.879809208024,
+      "moderateRisk": 12.19455528938561,
+      "highRisk": 4.533638806890779,
+      "veryHighRisk": 0.8185155168991611
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 2.413209064774075,
+      "lowRisk": 78.13165993454352,
+      "moderateRisk": 15.404012561283832,
+      "highRisk": 4.167859757367776,
+      "veryHighRisk": 2.2964677468048706
+    }
+  },
+  "moduleCoupling": {
+    "old": {
+      "rating": 1.8162709871774774,
+      "lowRisk": 68.6630427748657,
+      "moderateRisk": 8.58085808580858,
+      "highRisk": 8.315537436096555,
+      "veryHighRisk": 14.440561703229147
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 0.5,
+      "lowRisk": 29.101338432122358,
+      "moderateRisk": 15.717017208413003,
+      "highRisk": 4.2065009560229445,
+      "veryHighRisk": 50.97514340344169
+    }
+  }
+}

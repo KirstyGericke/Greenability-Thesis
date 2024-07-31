@@ -1,0 +1,113 @@
+{
+  "snapshotDates": [
+    "2024-06-11",
+    "2024-06-12"
+  ],
+  "totalNewFiles": 1,
+  "totalNewVolumeInMonths": 0.30133333333333334,
+  "totalNewVolumeInLoc": 226,
+  "newFiles": [
+    {
+      "moduleId": 85167453,
+      "path": "src/java/org/apache/commons/collections/buffer/PriorityBuffer.java",
+      "volumeInMonths": 0.30133333333333334,
+      "status": "changed",
+      "duplicationRiskDelta": -0.007024918579110806,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    }
+  ],
+  "oldMaintainabilityRating": 3.7287648972064176,
+  "maintainabilityRating": 3.728814720455001,
+  "oldOnlyChangedModulesRating": null,
+  "newCodeRating": 2.849494006652349,
+  "volumeInMonths": 35.56684708113232,
+  "volumeInLoc": 26748,
+  "duplication": {
+    "old": {
+      "rating": 2.41797706965665,
+      "lowRisk": 88.57827676073683,
+      "moderateRisk": 0,
+      "highRisk": 0,
+      "veryHighRisk": 11.421723239263175
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 2.2683679130968226,
+      "lowRisk": 86.1963190184049,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 13.803680981595093
+    }
+  },
+  "unitSize": {
+    "old": {
+      "rating": 4.21402863726808,
+      "lowRisk": 76.16487531437984,
+      "moderateRisk": 14.867474433730035,
+      "highRisk": 7.088552915766738,
+      "veryHighRisk": 2.526997840172786
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 3.346148795393707,
+      "lowRisk": 62.019230769230774,
+      "moderateRisk": 15.384615384615385,
+      "highRisk": 22.596153846153847,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitComplexity": {
+    "old": {
+      "rating": 3.5470262248171753,
+      "lowRisk": 83.85745140388768,
+      "moderateRisk": 9.268607800892445,
+      "highRisk": 5.587707758779132,
+      "veryHighRisk": 0.5786329602961479
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 2.229415300578338,
+      "lowRisk": 77.40384615384616,
+      "moderateRisk": 0.0,
+      "highRisk": 22.596153846153847,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitInterfacing": {
+    "old": {
+      "rating": 4.379920692804128,
+      "lowRisk": 93.64420477902335,
+      "moderateRisk": 5.425219469210626,
+      "highRisk": 0.9947414548641542,
+      "veryHighRisk": 0.0
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 4.878672734502717,
+      "lowRisk": 95.67307692307693,
+      "moderateRisk": 4.326923076923077,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  },
+  "moduleCoupling": {
+    "old": {
+      "rating": 3.1860944688393222,
+      "lowRisk": 88.47775709455608,
+      "moderateRisk": 5.348934391976599,
+      "highRisk": 2.978383922805151,
+      "veryHighRisk": 3.1949245906621586
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": null,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  }
+}

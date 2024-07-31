@@ -1,0 +1,77 @@
+{
+  "id": "sigrel",
+  "name": "SIG Code Reliability Top 10",
+  "feature": "RELIABILITY",
+  "systemId": 19309,
+  "systemName": "churn2-cmath-original",
+  "adherenceScore": 0.8863636363636364,
+  "rating": 3.7,
+  "categories": [
+    {
+      "id": "other",
+      "name": "Other",
+      "adherenceScore": 1.0,
+      "maxSeverity": "NONE"
+    },
+    {
+      "id": "r9",
+      "name": "9. Arithmetic Operations",
+      "adherenceScore": 0.5,
+      "maxSeverity": "MEDIUM"
+    },
+    {
+      "id": "r8",
+      "name": "8. Error Handling",
+      "adherenceScore": 1.0,
+      "maxSeverity": "NONE"
+    },
+    {
+      "id": "r10",
+      "name": "10. Dead, Irrelevant & Obsolete Code",
+      "adherenceScore": 1.0,
+      "maxSeverity": "NONE"
+    },
+    {
+      "id": "r1",
+      "name": "1. Inter-process Communication",
+      "adherenceScore": 1.0,
+      "maxSeverity": "NONE"
+    },
+    {
+      "id": "r2",
+      "name": "2. Logic & Data Flow",
+      "adherenceScore": 0.25,
+      "maxSeverity": "HIGH"
+    },
+    {
+      "id": "r6",
+      "name": "6. Resource Management",
+      "adherenceScore": 1.0,
+      "maxSeverity": "NONE"
+    },
+    {
+      "id": "r4",
+      "name": "4. Concurrency & Synchronization",
+      "adherenceScore": 1.0,
+      "maxSeverity": "NONE"
+    },
+    {
+      "id": "r7",
+      "name": "7. Hard-coded Configuration",
+      "adherenceScore": 1.0,
+      "maxSeverity": "NONE"
+    },
+    {
+      "id": "r5",
+      "name": "5. Pointers",
+      "adherenceScore": 1.0,
+      "maxSeverity": "NONE"
+    },
+    {
+      "id": "r3",
+      "name": "3. Memory Allocation & Release",
+      "adherenceScore": 1.0,
+      "maxSeverity": "NONE"
+    }
+  ]
+}

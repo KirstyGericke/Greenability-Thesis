@@ -1,0 +1,146 @@
+{
+  "snapshotDates": [
+    "2024-06-11",
+    "2024-06-12"
+  ],
+  "totalNewFiles": 4,
+  "totalNewVolumeInMonths": 0.86,
+  "totalNewVolumeInLoc": 645,
+  "newFiles": [
+    {
+      "moduleId": 85233893,
+      "path": "src/main/java/org/apache/commons/math3/stat/regression/SimpleRegression.java",
+      "volumeInMonths": 0.45066666666666666,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0002469246655293217,
+      "unitSizeRiskDelta": 0.002837132710354462,
+      "unitComplexityRiskDelta": 0.002093129377219616,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85232666,
+      "path": "src/main/java/org/apache/commons/math3/distribution/TDistribution.java",
+      "volumeInMonths": 0.13066666666666665,
+      "status": "changed",
+      "duplicationRiskDelta": -0.0049040510710368634,
+      "unitSizeRiskDelta": -0.008335906143871558,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 1.0
+    },
+    {
+      "moduleId": 85235459,
+      "path": "src/main/java/org/apache/commons/math3/stat/inference/OneWayAnova.java",
+      "volumeInMonths": 0.12933333333333333,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85235359,
+      "path": "src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java",
+      "volumeInMonths": 0.14933333333333335,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.009406494960805922,
+      "unitComplexityRiskDelta": 0.0062709966405374296,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    }
+  ],
+  "oldMaintainabilityRating": 2.7381417920365743,
+  "maintainabilityRating": 2.738184561118811,
+  "oldOnlyChangedModulesRating": null,
+  "newCodeRating": 2.646448349484319,
+  "volumeInMonths": 91.02927536231881,
+  "volumeInLoc": 70065,
+  "duplication": {
+    "old": {
+      "rating": 3.360466532268062,
+      "lowRisk": 94.2628726548592,
+      "moderateRisk": 0,
+      "highRisk": 0,
+      "veryHighRisk": 5.737127345140798
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 3.566983361017083,
+      "lowRisk": 94.98455625107337,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 5.01544374892663
+    }
+  },
+  "unitSize": {
+    "old": {
+      "rating": 2.448282873478466,
+      "lowRisk": 54.240318982333505,
+      "moderateRisk": 17.33479614515137,
+      "highRisk": 15.085694144600609,
+      "veryHighRisk": 18.73595629378332
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 2.3599113563640812,
+      "lowRisk": 44.54209725745765,
+      "moderateRisk": 15.898743478668006,
+      "highRisk": 27.312729235314563,
+      "veryHighRisk": 12.246430028559775
+    }
+  },
+  "unitComplexity": {
+    "old": {
+      "rating": 2.1497294080290947,
+      "lowRisk": 61.38476450632242,
+      "moderateRisk": 13.750408115525921,
+      "highRisk": 10.714625764178813,
+      "veryHighRisk": 8.16641664182247
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 2.077078630844969,
+      "lowRisk": 56.638723014266176,
+      "moderateRisk": 17.394161265246336,
+      "highRisk": 25.967115720487488,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitInterfacing": {
+    "old": {
+      "rating": 2.5803974675589068,
+      "lowRisk": 82.87980920802401,
+      "moderateRisk": 12.194555289385605,
+      "highRisk": 4.533638806890779,
+      "veryHighRisk": 0.8185155168991605
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 5.347922518122148,
+      "lowRisk": 98.94093241620264,
+      "moderateRisk": 1.0590675837973578,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  },
+  "moduleCoupling": {
+    "old": {
+      "rating": 1.8162709871774774,
+      "lowRisk": 68.66304277486574,
+      "moderateRisk": 8.58085808580858,
+      "highRisk": 8.315537436096548,
+      "veryHighRisk": 14.440561703229147
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 1.842333617516684,
+      "lowRisk": 67.44186046511628,
+      "moderateRisk": 32.55813953488372,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  }
+}

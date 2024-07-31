@@ -1,0 +1,97 @@
+"","Metric","Refactoring","cor_value","p_value"
+"1","Activity Risk","extractmethod",-0.296683051981965,0.438197803591287
+"2","Activity Risk","extractvariable",-0.116059586360657,0.766203236259809
+"3","Activity Risk","inline",-0.228217732293819,0.554787536403132
+"4","Activity Risk","introduceindirection",-0.182574185835055,0.638240151475715
+"5","Activity Risk","introducepo",-0.47925723781702,0.191766988816792
+"6","Activity Risk","variabletofield",0.182574185835055,0.638240151475715
+"7","Freshness Risk","extractmethod",-0.521749194749951,0.149668984924495
+"8","Freshness Risk","extractvariable",-0.246381864163144,0.522777159642837
+"9","Freshness Risk","inline",-0.11180339887499,0.77459520225386
+"10","Freshness Risk","introduceindirection",-0.186338998124983,0.631206387046988
+"11","Freshness Risk","introducepo",-0.42857969568746,0.249746524217431
+"12","Freshness Risk","variabletofield",-0.0559016994374947,0.886414143886509
+"13","Management Risk","extractmethod",-0.663398853794372,0.0514137396080546
+"14","Management Risk","extractvariable",-0.42297123461815,0.256676071271279
+"15","Management Risk","inline",0.148522131446501,0.702940023456221
+"16","Management Risk","introduceindirection",-0.574285574926471,0.105832387120213
+"17","Management Risk","introducepo",-0.148522131446501,0.702940023456221
+"18","Management Risk","variabletofield",0.36635459090137,0.332183074155001
+"19","Code Breakdown","extractmethod",-0.4,0.291192680776014
+"20","Code Breakdown","extractvariable",-0.67806350362081,0.0447072359709458
+"21","Code Breakdown","inline",0.0333333333333333,0.948390652557319
+"22","Code Breakdown","introduceindirection",-0.616666666666667,0.0857253086419753
+"23","Code Breakdown","introducepo",-0.3,0.436623677248677
+"24","Code Breakdown","variabletofield",-0.35,0.358581349206349
+"25","Code Reuse","extractmethod",-0.0912870929175277,0.815318071460026
+"26","Code Reuse","extractvariable",-0.557086014531156,0.11919327345466
+"27","Code Reuse","inline",-0.296683051981965,0.438197803591287
+"28","Code Reuse","introduceindirection",-0.342326598440729,0.367180977678794
+"29","Code Reuse","introducepo",-0.0912870929175277,0.815318071460026
+"30","Code Reuse","variabletofield",-0.0912870929175277,0.815318071460026
+"31","Communication Centralization","extractmethod",-0.711966678801851,0.031425255860766
+"32","Communication Centralization","extractvariable",-0.879310344827586,0.0017835751994897
+"33","Communication Centralization","inline",-0.610257153258729,0.0809396701379464
+"34","Communication Centralization","introduceindirection",-0.695015091211331,0.0376882924527015
+"35","Communication Centralization","introducepo",-0.67806350362081,0.0447072359709458
+"36","Communication Centralization","variabletofield",-0.322080164219885,0.397969535221285
+"37","Component Cohesion","extractmethod",-0.711966678801851,0.031425255860766
+"38","Component Cohesion","extractvariable",-0.879310344827586,0.0017835751994897
+"39","Component Cohesion","inline",-0.610257153258729,0.0809396701379464
+"40","Component Cohesion","introduceindirection",-0.695015091211331,0.0376882924527015
+"41","Component Cohesion","introducepo",-0.67806350362081,0.0447072359709458
+"42","Component Cohesion","variabletofield",-0.322080164219885,0.397969535221285
+"43","Component Coupling","extractmethod",-0.66111191603029,0.0525140140750654
+"44","Component Coupling","extractvariable",-0.879310344827586,0.0017835751994897
+"45","Component Coupling","inline",-0.610257153258729,0.0809396701379464
+"46","Component Coupling","introduceindirection",-0.64416032843977,0.0611378549131365
+"47","Component Coupling","introducepo",-0.593305565668209,0.0921619525517758
+"48","Component Coupling","variabletofield",-0.152564288314682,0.695164092023903
+"49","Duplication","extractmethod",-0.666666666666667,0.0588899911816579
+"50","Duplication","extractvariable",-0.847579379526013,0.0039085480832252
+"51","Duplication","inline",-0.466666666666667,0.212522045855379
+"52","Duplication","introduceindirection",-0.716666666666667,0.0368661816578483
+"53","Duplication","introducepo",-0.5,0.177662037037037
+"54","Duplication","variabletofield",-0.266666666666667,0.493331128747795
+"55","Module Coupling","extractmethod",-0.166666666666667,0.677744708994709
+"56","Module Coupling","extractvariable",0.101709525543122,0.794576966149737
+"57","Module Coupling","inline",0.1,0.809981261022928
+"58","Module Coupling","introduceindirection",-0.0333333333333333,0.948390652557319
+"59","Module Coupling","introducepo",-0.433333333333333,0.249917328042328
+"60","Module Coupling","variabletofield",0.4,0.291192680776014
+"61","Technology Prevalence","extractmethod",-0.316666666666667,0.410080467372134
+"62","Technology Prevalence","extractvariable",0.101709525543122,0.794576966149737
+"63","Technology Prevalence","inline",-0.233333333333333,0.551708553791887
+"64","Technology Prevalence","introduceindirection",-0.05,0.911618165784832
+"65","Technology Prevalence","introducepo",-0.183333333333333,0.643639770723104
+"66","Technology Prevalence","variabletofield",-0.316666666666667,0.410080467372134
+"67","Test Code Ratio","extractmethod",-0.0666666666666667,0.880092592592593
+"68","Test Code Ratio","extractvariable",0.254273813857804,0.50910151475486
+"69","Test Code Ratio","inline",0.05,0.911618165784832
+"70","Test Code Ratio","introduceindirection",0.2,0.613403880070547
+"71","Test Code Ratio","introducepo",0.3,0.436623677248677
+"72","Test Code Ratio","variabletofield",0.566666666666667,0.120574294532628
+"73","Unit Complexity","extractmethod",-0.3,0.436623677248677
+"74","Unit Complexity","extractvariable",-0.101709525543122,0.794576966149737
+"75","Unit Complexity","inline",-0.3,0.436623677248677
+"76","Unit Complexity","introduceindirection",-0.0666666666666667,0.880092592592593
+"77","Unit Complexity","introducepo",-0.216666666666667,0.580941358024691
+"78","Unit Complexity","variabletofield",0.35,0.358581349206349
+"79","Unit Interfacing","extractmethod",-0.283333333333333,0.462990520282187
+"80","Unit Interfacing","extractvariable",-0.135612700724162,0.72793110279068
+"81","Unit Interfacing","inline",-0.0833333333333333,0.843182319223986
+"82","Unit Interfacing","introduceindirection",0.0333333333333333,0.948390652557319
+"83","Unit Interfacing","introducepo",-0.166666666666667,0.677744708994709
+"84","Unit Interfacing","variabletofield",0.216666666666667,0.580941358024691
+"85","Unit Size","extractmethod",-0.283333333333333,0.462990520282187
+"86","Unit Size","extractvariable",-0.067806350362081,0.862394191836714
+"87","Unit Size","inline",-0.4,0.291192680776014
+"88","Unit Size","introduceindirection",-0.0333333333333333,0.948390652557319
+"89","Unit Size","introducepo",-0.216666666666667,0.580941358024691
+"90","Unit Size","variabletofield",0.366666666666667,0.336259920634921
+"91","Volume","extractmethod",-0.847579379526013,0.0039085480832252
+"92","Volume","extractvariable",-0.810344827586207,0.00808159929449631
+"93","Volume","inline",-0.559402390487169,0.11733810288497
+"94","Volume","introduceindirection",-0.711966678801851,0.031425255860766
+"95","Volume","introducepo",-0.745869853982892,0.0210263031060696
+"96","Volume","variabletofield",-0.254273813857804,0.509101514754861

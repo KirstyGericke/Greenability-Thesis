@@ -1,0 +1,30 @@
+{
+  "customer": "sigdelivery",
+  "system": "churn2-cbeanutils-original",
+  "snapshotDate": "2024-06-12",
+  "analysisDate": "2024-06-12",
+  "modelVersion": "1.4",
+  "ratings": {
+    "architecture": 3.39526,
+    "subcharacteristics": {
+      "dataAccess": 0,
+      "technologyStack": 5.0691,
+      "evolution": 2.6969,
+      "communication": 2.80481,
+      "structure": 3.01021,
+      "knowledge": 0
+    },
+    "systemProperties": {
+      "componentCoupling": 2.23213,
+      "codeReuse": 3.68192,
+      "knowledgeDistribution": 0,
+      "boundedEvolution": 0,
+      "componentFreshness": 0,
+      "communicationCentralization": 2.50038,
+      "technologyPrevalence": 5.0691,
+      "codeBreakdown": 1.86668,
+      "componentCohesion": 3.99188,
+      "dataCoupling": 0
+    }
+  }
+}

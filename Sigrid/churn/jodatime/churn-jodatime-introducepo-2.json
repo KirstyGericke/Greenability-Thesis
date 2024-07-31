@@ -1,0 +1,135 @@
+{
+  "snapshotDates": [
+    "2024-06-11",
+    "2024-06-12"
+  ],
+  "totalNewFiles": 3,
+  "totalNewVolumeInMonths": 0.644,
+  "totalNewVolumeInLoc": 483,
+  "newFiles": [
+    {
+      "moduleId": 85326142,
+      "path": "src/main/java/org/joda/time/ConvertLocalToUTCParameter.java",
+      "volumeInMonths": 0.016,
+      "status": "new",
+      "duplicationRiskDelta": -0.07810947789954792,
+      "unitSizeRiskDelta": -0.5138510479339459,
+      "unitComplexityRiskDelta": -0.34427136381632856,
+      "unitInterfacingRiskDelta": 0.7924432664094037,
+      "moduleCouplingRiskDelta": -1.1733171663727222
+    },
+    {
+      "moduleId": 85285500,
+      "path": "src/main/java/org/joda/time/chrono/ZonedChronology.java",
+      "volumeInMonths": 0.584,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85284891,
+      "path": "src/main/java/org/joda/time/field/LenientDateTimeField.java",
+      "volumeInMonths": 0.044,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    }
+  ],
+  "oldMaintainabilityRating": 2.8897556087882577,
+  "maintainabilityRating": 2.8904230204128463,
+  "oldOnlyChangedModulesRating": null,
+  "newCodeRating": 4.428634582760713,
+  "volumeInMonths": 44.306575646756066,
+  "volumeInLoc": 34874,
+  "duplication": {
+    "old": {
+      "rating": 2.9233593489336855,
+      "lowRisk": 92.1890522100452,
+      "moderateRisk": 0,
+      "highRisk": 0,
+      "veryHighRisk": 7.810947789954792
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 2.2245825626960603,
+      "lowRisk": 85.43572369659327,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 14.564276303406738
+    }
+  },
+  "unitSize": {
+    "old": {
+      "rating": 3.771100164828615,
+      "lowRisk": 70.47912958881261,
+      "moderateRisk": 13.702733655064247,
+      "highRisk": 10.563939634630659,
+      "veryHighRisk": 5.518163956356339
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 4.2727376054632735,
+      "lowRisk": 91.16419812071986,
+      "moderateRisk": 0.0,
+      "highRisk": 8.835801879280138,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitComplexity": {
+    "old": {
+      "rating": 2.8902425583421967,
+      "lowRisk": 78.78015133146607,
+      "moderateRisk": 10.593910404120969,
+      "highRisk": 7.526601608158543,
+      "veryHighRisk": 2.9266742537316004
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 5.5,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitInterfacing": {
+    "old": {
+      "rating": 3.1290119855044223,
+      "lowRisk": 83.67087388052732,
+      "moderateRisk": 13.095790060128575,
+      "highRisk": 2.180447944451501,
+      "veryHighRisk": 1.0996624700093536
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 2.6998996788538236,
+      "lowRisk": 90.30737378563465,
+      "moderateRisk": 4.577161968466316,
+      "highRisk": 3.952858735467431,
+      "veryHighRisk": 1.1626055104315973
+    }
+  },
+  "moduleCoupling": {
+    "old": {
+      "rating": 0.7295242888545741,
+      "lowRisk": 50.11390358612575,
+      "moderateRisk": 8.803644914756026,
+      "highRisk": 14.719282774838344,
+      "veryHighRisk": 26.363168724279834
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 5.5,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  }
+}

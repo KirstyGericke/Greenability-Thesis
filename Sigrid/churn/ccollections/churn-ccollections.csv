@@ -1,0 +1,25 @@
+System,Refactoring,Refactoring Number,totalNewFiles,totalNewVolumeInMonths,totalNewVolumeInLoc
+ccollections,extractmethod,1,1,0.43733333333333335,328
+ccollections,extractmethod,2,1,0.196,147
+ccollections,extractmethod,3,1,0.22933333333333333,172
+ccollections,extractmethod,4,1,0.784,588
+ccollections,extractvariable,1,1,1.2306666666666666,923
+ccollections,extractvariable,2,0,0,0
+ccollections,extractvariable,3,0,0,0
+ccollections,extractvariable,4,0,0,0
+ccollections,inline,1,1,0.30533333333333335,229
+ccollections,inline,2,1,1.408,1056
+ccollections,inline,3,1,0.14,105
+ccollections,inline,4,1,0.9266666666666666,695
+ccollections,introduceindirection,1,3,1.4626666666666668,1097
+ccollections,introduceindirection,2,19,8.757333333333333,6568
+ccollections,introduceindirection,3,1,0.12133333333333333,91
+ccollections,introduceindirection,4,6,0.9440000000000001,708
+ccollections,introducepo,1,1,0.012,9
+ccollections,introducepo,2,2,0.20266666666666666,152
+ccollections,introducepo,3,11,0.31333333333333335,235
+ccollections,introducepo,4,2,0.04533333333333333,34
+ccollections,variabletofield,1,1,1.1293333333333333,847
+ccollections,variabletofield,2,1,1.4133333333333333,1060
+ccollections,variabletofield,3,1,0.30133333333333334,226
+ccollections,variabletofield,4,0,0.0,0

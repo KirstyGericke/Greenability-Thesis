@@ -1,0 +1,25 @@
+System,Refactoring,Refactoring Number,totalNewFiles,totalNewVolumeInMonths,totalNewVolumeInLoc
+cbeanutils,extractmethod,1,1,0.20133333333333334,151
+cbeanutils,extractmethod,2,1,1.6053333333333333,1204
+cbeanutils,extractmethod,3,1,0.076,57
+cbeanutils,extractmethod,4,1,0.2653333333333333,199
+cbeanutils,extractvariable,1,1,0.7106666666666667,533
+cbeanutils,extractvariable,2,1,0.4613333333333333,346
+cbeanutils,extractvariable,3,1,0.4613333333333333,346
+cbeanutils,extractvariable,4,1,0.19866666666666666,149
+cbeanutils,inline,1,0,0.0,0
+cbeanutils,inline,2,3,2.529333333333333,1897
+cbeanutils,inline,3,1,0.30533333333333335,229
+cbeanutils,inline,4,1,0.32266666666666666,242
+cbeanutils,introduceindirection,1,1,0.4106666666666667,308
+cbeanutils,introduceindirection,2,3,1.5106666666666668,1133
+cbeanutils,introduceindirection,3,1,0.104,78
+cbeanutils,introduceindirection,4,4,3.1226666666666665,2342
+cbeanutils,introducepo,1,1,0.009333333333333334,7
+cbeanutils,introducepo,2,3,0.8373333333333334,628
+cbeanutils,introducepo,3,1,0.012,9
+cbeanutils,introducepo,4,1,0.009333333333333334,7
+cbeanutils,variabletofield,1,1,0.23066666666666666,173
+cbeanutils,variabletofield,2,0,0.0,0
+cbeanutils,variabletofield,3,0,0.0,0
+cbeanutils,variabletofield,4,1,0.19866666666666666,149

@@ -1,0 +1,113 @@
+{
+  "snapshotDates": [
+    "2024-06-11",
+    "2024-06-12"
+  ],
+  "totalNewFiles": 1,
+  "totalNewVolumeInMonths": 0.28,
+  "totalNewVolumeInLoc": 210,
+  "newFiles": [
+    {
+      "moduleId": 85293098,
+      "path": "src/app/sudoku/Puzzle.java",
+      "volumeInMonths": 0.28,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": -0.001844818231144879,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    }
+  ],
+  "oldMaintainabilityRating": 4.180015349673797,
+  "maintainabilityRating": 4.1861725586377005,
+  "oldOnlyChangedModulesRating": null,
+  "newCodeRating": 5.412962985717738,
+  "volumeInMonths": 0.504,
+  "volumeInLoc": 378,
+  "duplication": {
+    "old": {
+      "rating": 5.5,
+      "lowRisk": 100.0,
+      "moderateRisk": 0,
+      "highRisk": 0,
+      "veryHighRisk": 0.0
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 5.5,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitSize": {
+    "old": {
+      "rating": 5.30251250560516,
+      "lowRisk": 95.06105263157895,
+      "moderateRisk": 4.938947368421053,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 5.151851942870952,
+      "lowRisk": 91.23711340206185,
+      "moderateRisk": 8.762886597938143,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitComplexity": {
+    "old": {
+      "rating": 5.5,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 5.5,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitInterfacing": {
+    "old": {
+      "rating": 5.1221167508086705,
+      "lowRisk": 97.44571428571429,
+      "moderateRisk": 2.554285714285714,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 5.5,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  },
+  "moduleCoupling": {
+    "old": {
+      "rating": 0.8151934637202608,
+      "lowRisk": 60.266666666666666,
+      "moderateRisk": 0.0,
+      "highRisk": 39.733333333333334,
+      "veryHighRisk": 0.0
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": null,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "snapshotDates": [
+    "2024-06-11",
+    "2024-06-12"
+  ],
+  "totalNewFiles": 1,
+  "totalNewVolumeInMonths": 2.030666666666667,
+  "totalNewVolumeInLoc": 1523,
+  "newFiles": [
+    {
+      "moduleId": 85207379,
+      "path": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+      "volumeInMonths": 2.030666666666667,
+      "status": "changed",
+      "duplicationRiskDelta": -0.00002275002275002342,
+      "unitSizeRiskDelta": -0.018828072921195593,
+      "unitComplexityRiskDelta": -0.029019215720371916,
+      "unitInterfacingRiskDelta": 0.010645813407529778,
+      "moduleCouplingRiskDelta": 0.0
+    }
+  ],
+  "oldMaintainabilityRating": 2.7381417920365743,
+  "maintainabilityRating": 2.738442674539929,
+  "oldOnlyChangedModulesRating": null,
+  "newCodeRating": 2.3357396236605257,
+  "volumeInMonths": 91.0292753623189,
+  "volumeInLoc": 70065,
+  "duplication": {
+    "old": {
+      "rating": 3.360466532268062,
+      "lowRisk": 94.2628726548592,
+      "moderateRisk": 0,
+      "highRisk": 0,
+      "veryHighRisk": 5.737127345140798
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 5.219691789691789,
+      "lowRisk": 99.32659932659934,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.6734006734006732
+    }
+  },
+  "unitSize": {
+    "old": {
+      "rating": 2.448282873478466,
+      "lowRisk": 54.240318982333505,
+      "moderateRisk": 17.33479614515137,
+      "highRisk": 15.085694144600609,
+      "veryHighRisk": 18.73595629378332
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 0.9706754985616969,
+      "lowRisk": 18.682795698924732,
+      "moderateRisk": 3.696236559139785,
+      "highRisk": 38.03763440860215,
+      "veryHighRisk": 39.58333333333333
+    }
+  },
+  "unitComplexity": {
+    "old": {
+      "rating": 2.1497294080290947,
+      "lowRisk": 61.38476450632242,
+      "moderateRisk": 13.750408115525921,
+      "highRisk": 10.714625764178816,
+      "veryHighRisk": 8.166416641822476
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 0.5,
+      "lowRisk": 21.505376344086024,
+      "moderateRisk": 11.491935483870968,
+      "highRisk": 35.88709677419355,
+      "veryHighRisk": 31.115591397849464
+    }
+  },
+  "unitInterfacing": {
+    "old": {
+      "rating": 2.5803974675589068,
+      "lowRisk": 82.879809208024,
+      "moderateRisk": 12.194555289385606,
+      "highRisk": 4.533638806890779,
+      "veryHighRisk": 0.8185155168991607
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 4.805182412777232,
+      "lowRisk": 95.16129032258064,
+      "moderateRisk": 4.637096774193548,
+      "highRisk": 0.20161290322580644,
+      "veryHighRisk": 0.0
+    }
+  },
+  "moduleCoupling": {
+    "old": {
+      "rating": 1.8162709871774774,
+      "lowRisk": 68.66304277486572,
+      "moderateRisk": 8.58085808580858,
+      "highRisk": 8.31553743609655,
+      "veryHighRisk": 14.440561703229147
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": null,
+      "lowRisk": 0.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 100.0
+    }
+  }
+}

@@ -1,0 +1,25 @@
+System,Refactoring,Refactoring Number,totalNewFiles,totalNewVolumeInMonths,totalNewVolumeInLoc
+sudoku,extractmethod,1,1,0.208,156
+sudoku,extractmethod,2,1,0.204,153
+sudoku,extractmethod,3,1,0.28,210
+sudoku,extractmethod,4,1,0.2813333333333333,211
+sudoku,extractvariable,1,0,0,0
+sudoku,extractvariable,2,0,0,0
+sudoku,extractvariable,3,0,0,0
+sudoku,extractvariable,4,0,0,0
+sudoku,inline,1,1,0.2,150
+sudoku,inline,2,1,0.2,150
+sudoku,inline,3,1,0.19466666666666665,146
+sudoku,inline,4,0,0.0,0
+sudoku,introduceindirection,1,1,0.20266666666666666,152
+sudoku,introduceindirection,2,1,0.20266666666666666,152
+sudoku,introduceindirection,3,1,0.28,210
+sudoku,introduceindirection,4,1,0.28,210
+sudoku,introducepo,1,1,0.014666666666666666,11
+sudoku,introducepo,2,1,0.006666666666666667,5
+sudoku,introducepo,3,1,0.009333333333333334,7
+sudoku,introducepo,4,1,0.006666666666666667,5
+sudoku,variabletofield,1,1,0.2773333333333333,208
+sudoku,variabletofield,2,0,0.0,0
+sudoku,variabletofield,3,0,0.0,0
+sudoku,variabletofield,4,1,0.2,150

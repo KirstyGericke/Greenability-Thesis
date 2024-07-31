@@ -1,0 +1,62 @@
+Timestamp,How familiar are you with SIG's quality models? ,How many years have you been working in IT?,"Do your daily responsibilities include writing, reviewing, and/or analyzing source code?","Maintainability
+Would implementing this refactoring in System A require more or less effort than in System B? ","Reliability
+Would implementing this refactoring in System A require more or less effort than in System B? ","Architecture Quality
+Would implementing this refactoring in System A require more or less effort than in System B? ","Freshness
+Would implementing this refactoring in System A require more or less effort than in System B? ","Performance Efficiency
+Would implementing this refactoring in System A require more or less effort than in System B? ","Maintainability
+Would implementing this refactoring in System A require more or less effort than in System B? ","Reliability
+Would implementing this refactoring in System A require more or less effort than in System B? ","Architecture Quality
+Would implementing this refactoring in System A require more or less effort than in System B? ","Freshness
+Would implementing this refactoring in System A require more or less effort than in System B? ","Performance Efficiency
+Would implementing this refactoring in System A require more or less effort than in System B? ","Maintainability
+Would implementing this refactoring in System A require more or less effort than in System B? ","Reliability
+Would implementing this refactoring in System A require more or less effort than in System B? ","Architecture Quality
+Would implementing this refactoring in System A require more or less effort than in System B? ","Freshness
+Would implementing this refactoring in System A require more or less effort than in System B? ","Performance Efficiency
+Would implementing this refactoring in System A require more or less effort than in System B? ","Maintainability
+Would implementing this refactoring in System A require more or less effort than in System B? ","Reliability
+Would implementing this refactoring in System A require more or less effort than in System B? ","Architecture Quality
+Would implementing this refactoring in System A require more or less effort than in System B? ","Freshness
+Would implementing this refactoring in System A require more or less effort than in System B? ","Performance Efficiency
+Would implementing this refactoring in System A require more or less effort than in System B? ","Maintainability
+Would implementing this refactoring in System A require more or less effort than in System B? ","Reliability
+Would implementing this refactoring in System A require more or less effort than in System B? ","Architecture Quality
+Would implementing this refactoring in System A require more or less effort than in System B? ","Freshness
+Would implementing this refactoring in System A require more or less effort than in System B? ","Performance Efficiency
+Would implementing this refactoring in System A require more or less effort than in System B? ","Maintainability
+Would implementing this refactoring in System A require more or less effort than in System B? ","Reliability
+Would implementing this refactoring in System A require more or less effort than in System B? ","Architecture Quality
+Would implementing this refactoring in System A require more or less effort than in System B? ","Freshness
+Would implementing this refactoring in System A require more or less effort than in System B? ","Performance Efficiency
+Would implementing this refactoring in System A require more or less effort than in System B? ",Do you have any additional comments?
+16/07/2024 10:59:59,5,10+ years,Yes,2,2,2,3,3,3,3,3,3,3,2,2,2,3,3,2,3,2,3,3,1,3,2,3,3,1,2,2,3,3,
+18/07/2024 12:53:35,5,1-5 years,No,1,1,1,3,3,1,1,1,2,3,1,1,1,3,3,1,1,1,3,3,1,1,1,2,3,1,1,1,3,3,
+18/07/2024 15:37:15,3,<1 year,No,1,3,3,3,3,1,3,2,3,3,1,3,1,3,3,1,2,1,3,3,2,4,1,3,3,1,3,2,3,3,
+18/07/2024 15:46:34,5,5-10 years,Yes,1,1,1,1,3,1,1,1,3,3,1,1,1,2,3,1,1,1,3,3,2,1,1,1,3,1,1,1,1,3,
+19/07/2024 11:23:19,5,1-5 years,Yes,1,1,3,3,2,1,2,3,3,2,1,2,2,3,3,1,2,2,3,3,1,2,3,3,3,1,2,3,3,3,
+19/07/2024 12:23:54,4,1-5 years,Yes,1,3,1,3,3,1,3,1,3,3,1,1,1,3,3,1,1,1,2,3,1,2,1,3,3,2,2,2,3,3,
+19/07/2024 13:17:34,5,10+ years,No,2,4,3,3,3,4,4,3,3,3,5,3,3,3,3,4,3,3,3,3,4,,3,3,3,4,3,3,3,3,
+19/07/2024 13:34:09,5,<1 year,Yes,1,2,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+19/07/2024 13:41:30,5,5-10 years,Yes,1,1,1,3,2,1,1,2,3,2,1,1,1,2,1,1,1,2,3,1,3,3,3,3,3,2,2,2,3,2,No
+19/07/2024 14:18:17,5,10+ years,Yes,4,3,3,3,3,4,4,3,3,3,4,4,4,3,3,4,4,4,3,3,4,4,4,3,3,4,4,4,3,3,"Bugra here.
+
+The refactoring effort, in my opinion, directly depends on the required testing effort.
+The testing effort depends on how much of the codebase has been impacted.
+The ""how much"" is determined by the volume of the system and the dependency structure (how coupled the things are). 
+
+Please note that many of these refactoring can be done automated nowadays, meaning that there is almost no manual effort. However, the testing is still the actual effort."
+19/07/2024 15:08:07,5,5-10 years,Yes,1,1,1,1,1,3,3,3,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,
+19/07/2024 16:30:23,2,1-5 years,Yes,2,2,3,,,1,2,1,,,2,3,2,,,1,2,2,,,1,1,2,,,1,2,1,,,Good luck!
+19/07/2024 19:39:41,3,1-5 years,Yes,1,2,2,3,3,1,2,2,3,3,1,2,2,3,3,1,1,2,3,3,1,2,2,3,3,1,2,2,3,3,
+21/07/2024 21:36:45,1,1-5 years,Yes,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+23/07/2024 10:52:24,5,10+ years,No,2,,2,3,3,2,3,3,3,3,1,3,1,3,3,1,3,1,3,3,1,3,3,3,3,1,3,2,3,3,"As I indicated in my answers, I don't believe the runtime behavior of the system and this type of refactorings don't have any relation."
+23/07/2024 11:25:17,3,<1 year,Yes,1,1,1,,,1,2,2,,,1,1,2,,,2,2,1,,,1,2,1,,,1,2,1,,,
+23/07/2024 11:32:57,5,10+ years,Yes,1,2,1,3,3,1,2,1,3,3,1,2,1,3,3,1,2,1,3,3,1,2,1,3,3,1,2,1,3,3,
+23/07/2024 12:07:05,5,1-5 years,Yes,2,2,1,1,2,2,2,2,1,1,2,2,2,1,1,2,1,1,2,2,1,1,2,1,2,3,3,4,2,2,
+23/07/2024 14:53:12,4,10+ years,Yes,1,1,1,3,3,1,2,2,3,3,1,2,1,3,3,1,2,2,3,3,1,3,2,3,3,1,2,1,3,3,"It wasn't really clear what was expected of the 5-point scale. I mostly based by answers on 1 or 2 characteristics per model; e.g. with fewer LOC I assume there are less possible candidates for the given refactoring type, so less effort."
+24/07/2024 10:52:05,5,1-5 years,No,1,1,1,3,3,1,1,1,3,3,1,1,1,3,3,1,1,1,3,3,1,1,1,3,3,1,1,1,3,3,
+24/07/2024 11:31:38,4,5-10 years,Yes,2,3,3,3,3,2,2,2,3,3,2,3,2,3,3,2,2,2,3,3,2,2,2,3,3,2,2,2,3,3,
+24/07/2024 17:46:39,5,10+ years,Yes,1,2,1,1,3,1,1,1,3,3,1,1,1,3,3,1,1,1,3,3,1,1,1,2,3,1,1,1,3,3,
+25/07/2024 14:21:06,5,5-10 years,Yes,3,3,3,3,3,3,3,3,3,3,2,2,3,3,3,2,3,3,3,3,2,3,3,3,3,1,2,3,3,3,
+26/07/2024 11:10:38,5,5-10 years,Yes,1,2,2,3,3,1,2,2,3,3,1,2,2,3,3,1,2,2,3,3,1,2,2,3,3,1,2,2,3,3,
+26/07/2024 13:21:15,4,5-10 years,No,1,2,1,3,3,1,2,1,3,3,1,2,1,3,3,1,2,1,3,3,3,3,3,3,3,1,2,1,3,3,"I think since all the refactoring patterns require changing and retesting code, the characteristics presented have very similar effects on the time required for it. Therefore my answers are mostly the same across the various patterns."

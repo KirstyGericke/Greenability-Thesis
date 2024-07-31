@@ -1,0 +1,113 @@
+{
+  "snapshotDates": [
+    "2024-06-11",
+    "2024-06-12"
+  ],
+  "totalNewFiles": 1,
+  "totalNewVolumeInMonths": 0.006666666666666667,
+  "totalNewVolumeInLoc": 5,
+  "newFiles": [
+    {
+      "moduleId": 85326056,
+      "path": "src/main/java/org/joda/convert/GetTypeParameter.java",
+      "volumeInMonths": 0.006666666666666667,
+      "status": "new",
+      "duplicationRiskDelta": -0.030226700251889168,
+      "unitSizeRiskDelta": -0.3983636702334953,
+      "unitComplexityRiskDelta": -0.18342424689173917,
+      "unitInterfacingRiskDelta": -0.07661404642828792,
+      "moduleCouplingRiskDelta": 0.0
+    }
+  ],
+  "oldMaintainabilityRating": 4.363619228640917,
+  "maintainabilityRating": 4.3686891194536965,
+  "oldOnlyChangedModulesRating": null,
+  "newCodeRating": 5.5,
+  "volumeInMonths": 1.272927536231884,
+  "volumeInLoc": 1031,
+  "duplication": {
+    "old": {
+      "rating": 4.361392607276919,
+      "lowRisk": 96.97732997481108,
+      "moderateRisk": 0,
+      "highRisk": 0,
+      "veryHighRisk": 3.022670025188917
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 5.5,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitSize": {
+    "old": {
+      "rating": 3.2502617388842636,
+      "lowRisk": 73.14057201828099,
+      "moderateRisk": 21.81311120939604,
+      "highRisk": 9.011627906976743,
+      "veryHighRisk": 0.0
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 5.5,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitComplexity": {
+    "old": {
+      "rating": 2.4852727075637677,
+      "lowRisk": 68.02325581395348,
+      "moderateRisk": 18.342424689173917,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 5.5,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitInterfacing": {
+    "old": {
+      "rating": 3.7905042167480865,
+      "lowRisk": 92.3385953571712,
+      "moderateRisk": 7.661404642828792,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 5.5,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  },
+  "moduleCoupling": {
+    "old": {
+      "rating": 5.5,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": null,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  }
+}

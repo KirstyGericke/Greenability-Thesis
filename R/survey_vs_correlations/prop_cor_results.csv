@@ -1,0 +1,25 @@
+Metric,Refactoring,Value
+Architecture Quality,Extract Method,-0.633333333
+Architecture Quality,Extract Local Variable,-0.864530967
+Architecture Quality,Inline Method,-0.633333333
+Architecture Quality,Introduce Indirection,-0.616666667
+Architecture Quality,Introduce Parameter Object,-0.616666667
+Architecture Quality,Convert Local Variable to Field,-0.2
+Maintainability,Extract Method,-0.65
+Maintainability,Extract Local Variable,-0.457692865
+Maintainability,Inline Method,-0.466666667
+Maintainability,Introduce Indirection,-0.316666667
+Maintainability,Introduce Parameter Object,-0.7
+Maintainability,Convert Local Variable to Field,0.333333333
+Reliability,Extract Method,-0.55940239
+Reliability,Extract Local Variable,-0.775862069
+Reliability,Inline Method,-0.440741277
+Reliability,Introduce Indirection,-0.474644453
+Reliability,Introduce Parameter Object,-0.49159604
+Reliability,Convert Local Variable to Field,-0.525499215
+Open Source Health,Extract Method,-0.4939437
+Open Source Health,Extract Local Variable,-0.261804228
+Open Source Health,Inline Method,-0.063833
+Open Source Health,Introduce Indirection,-0.314399586
+Open Source Health,Introduce Parameter Object,-0.352119688
+Open Source Health,Convert Local Variable to Field,0.164342359

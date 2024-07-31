@@ -1,0 +1,115 @@
+"","Metric","Refactoring","cor_value","p_value"
+"1","Activity Risk","extractmethod",-0.296683051981965,0.438197803591287
+"2","Activity Risk","extractvariable",-0.116059586360657,0.766203236259809
+"3","Activity Risk","inline",-0.228217732293819,0.554787536403132
+"4","Activity Risk","introduceindirection",-0.182574185835055,0.638240151475715
+"5","Activity Risk","introducepo",-0.47925723781702,0.191766988816792
+"6","Activity Risk","variabletofield",0.182574185835055,0.638240151475715
+"7","Freshness Risk","extractmethod",-0.521749194749951,0.149668984924495
+"8","Freshness Risk","extractvariable",-0.246381864163144,0.522777159642837
+"9","Freshness Risk","inline",-0.11180339887499,0.77459520225386
+"10","Freshness Risk","introduceindirection",-0.186338998124983,0.631206387046988
+"11","Freshness Risk","introducepo",-0.42857969568746,0.249746524217431
+"12","Freshness Risk","variabletofield",-0.0559016994374947,0.886414143886509
+"13","Management Risk","extractmethod",-0.663398853794372,0.0514137396080546
+"14","Management Risk","extractvariable",-0.42297123461815,0.256676071271279
+"15","Management Risk","inline",0.148522131446501,0.702940023456221
+"16","Management Risk","introduceindirection",-0.574285574926471,0.105832387120213
+"17","Management Risk","introducepo",-0.148522131446501,0.702940023456221
+"18","Management Risk","variabletofield",0.36635459090137,0.332183074155001
+"19","architecture","extractmethod",-0.633333333333333,0.0760361552028219
+"20","architecture","extractvariable",-0.864530967116533,0.00263237184483384
+"21","architecture","inline",-0.633333333333333,0.0760361552028219
+"22","architecture","introduceindirection",-0.616666666666667,0.0857253086419753
+"23","architecture","introducepo",-0.616666666666667,0.0857253086419753
+"24","architecture","variabletofield",-0.2,0.613403880070547
+"25","codeBreakdown","extractmethod",-0.4,0.291192680776014
+"26","codeBreakdown","extractvariable",-0.67806350362081,0.0447072359709458
+"27","codeBreakdown","inline",0.0333333333333333,0.948390652557319
+"28","codeBreakdown","introduceindirection",-0.616666666666667,0.0857253086419753
+"29","codeBreakdown","introducepo",-0.3,0.436623677248677
+"30","codeBreakdown","variabletofield",-0.35,0.358581349206349
+"31","codeReuse","extractmethod",-0.0912870929175277,0.815318071460026
+"32","codeReuse","extractvariable",-0.557086014531156,0.11919327345466
+"33","codeReuse","inline",-0.296683051981965,0.438197803591287
+"34","codeReuse","introduceindirection",-0.342326598440729,0.367180977678794
+"35","codeReuse","introducepo",-0.0912870929175277,0.815318071460026
+"36","codeReuse","variabletofield",-0.0912870929175277,0.815318071460026
+"37","communicationCentralization","extractmethod",-0.711966678801851,0.031425255860766
+"38","communicationCentralization","extractvariable",-0.879310344827586,0.0017835751994897
+"39","communicationCentralization","inline",-0.610257153258729,0.0809396701379464
+"40","communicationCentralization","introduceindirection",-0.695015091211331,0.0376882924527015
+"41","communicationCentralization","introducepo",-0.67806350362081,0.0447072359709458
+"42","communicationCentralization","variabletofield",-0.322080164219885,0.397969535221285
+"43","componentCohesion","extractmethod",-0.711966678801851,0.031425255860766
+"44","componentCohesion","extractvariable",-0.879310344827586,0.0017835751994897
+"45","componentCohesion","inline",-0.610257153258729,0.0809396701379464
+"46","componentCohesion","introduceindirection",-0.695015091211331,0.0376882924527015
+"47","componentCohesion","introducepo",-0.67806350362081,0.0447072359709458
+"48","componentCohesion","variabletofield",-0.322080164219885,0.397969535221285
+"49","componentCoupling","extractmethod",-0.66111191603029,0.0525140140750654
+"50","componentCoupling","extractvariable",-0.879310344827586,0.0017835751994897
+"51","componentCoupling","inline",-0.610257153258729,0.0809396701379464
+"52","componentCoupling","introduceindirection",-0.64416032843977,0.0611378549131365
+"53","componentCoupling","introducepo",-0.593305565668209,0.0921619525517758
+"54","componentCoupling","variabletofield",-0.152564288314682,0.695164092023903
+"55","duplication","extractmethod",-0.666666666666667,0.0588899911816579
+"56","duplication","extractvariable",-0.847579379526013,0.0039085480832252
+"57","duplication","inline",-0.466666666666667,0.212522045855379
+"58","duplication","introduceindirection",-0.716666666666667,0.0368661816578483
+"59","duplication","introducepo",-0.5,0.177662037037037
+"60","duplication","variabletofield",-0.266666666666667,0.493331128747795
+"61","maintainability","extractmethod",-0.65,0.0665619488536155
+"62","maintainability","extractvariable",-0.457692864944047,0.215411702960091
+"63","maintainability","inline",-0.466666666666667,0.212522045855379
+"64","maintainability","introduceindirection",-0.316666666666667,0.410080467372134
+"65","maintainability","introducepo",-0.7,0.0432539682539683
+"66","maintainability","variabletofield",0.333333333333333,0.385322971781305
+"67","moduleCoupling","extractmethod",-0.166666666666667,0.677744708994709
+"68","moduleCoupling","extractvariable",0.101709525543122,0.794576966149737
+"69","moduleCoupling","inline",0.1,0.809981261022928
+"70","moduleCoupling","introduceindirection",-0.0333333333333333,0.948390652557319
+"71","moduleCoupling","introducepo",-0.433333333333333,0.249917328042328
+"72","moduleCoupling","variabletofield",0.4,0.291192680776014
+"73","reliability","extractmethod",-0.559402390487169,0.11733810288497
+"74","reliability","extractvariable",-0.775862068965517,0.0139864878535321
+"75","reliability","inline",-0.440741277353527,0.235068709963643
+"76","reliability","introduceindirection",-0.474644452534567,0.196696052349391
+"77","reliability","introducepo",-0.491596040125088,0.17892749146834
+"78","reliability","variabletofield",-0.525499215306128,0.146240258312317
+"79","technologyPrevalence","extractmethod",-0.316666666666667,0.410080467372134
+"80","technologyPrevalence","extractvariable",0.101709525543122,0.794576966149737
+"81","technologyPrevalence","inline",-0.233333333333333,0.551708553791887
+"82","technologyPrevalence","introduceindirection",-0.05,0.911618165784832
+"83","technologyPrevalence","introducepo",-0.183333333333333,0.643639770723104
+"84","technologyPrevalence","variabletofield",-0.316666666666667,0.410080467372134
+"85","testCodeRatio","extractmethod",-0.0666666666666667,0.880092592592593
+"86","testCodeRatio","extractvariable",0.254273813857804,0.50910151475486
+"87","testCodeRatio","inline",0.05,0.911618165784832
+"88","testCodeRatio","introduceindirection",0.2,0.613403880070547
+"89","testCodeRatio","introducepo",0.3,0.436623677248677
+"90","testCodeRatio","variabletofield",0.566666666666667,0.120574294532628
+"91","unitComplexity","extractmethod",-0.3,0.436623677248677
+"92","unitComplexity","extractvariable",-0.101709525543122,0.794576966149737
+"93","unitComplexity","inline",-0.3,0.436623677248677
+"94","unitComplexity","introduceindirection",-0.0666666666666667,0.880092592592593
+"95","unitComplexity","introducepo",-0.216666666666667,0.580941358024691
+"96","unitComplexity","variabletofield",0.35,0.358581349206349
+"97","unitInterfacing","extractmethod",-0.283333333333333,0.462990520282187
+"98","unitInterfacing","extractvariable",-0.135612700724162,0.72793110279068
+"99","unitInterfacing","inline",-0.0833333333333333,0.843182319223986
+"100","unitInterfacing","introduceindirection",0.0333333333333333,0.948390652557319
+"101","unitInterfacing","introducepo",-0.166666666666667,0.677744708994709
+"102","unitInterfacing","variabletofield",0.216666666666667,0.580941358024691
+"103","unitSize","extractmethod",-0.283333333333333,0.462990520282187
+"104","unitSize","extractvariable",-0.067806350362081,0.862394191836714
+"105","unitSize","inline",-0.4,0.291192680776014
+"106","unitSize","introduceindirection",-0.0333333333333333,0.948390652557319
+"107","unitSize","introducepo",-0.216666666666667,0.580941358024691
+"108","unitSize","variabletofield",0.366666666666667,0.336259920634921
+"109","volume","extractmethod",-0.847579379526013,0.0039085480832252
+"110","volume","extractvariable",-0.810344827586207,0.00808159929449631
+"111","volume","inline",-0.559402390487169,0.11733810288497
+"112","volume","introduceindirection",-0.711966678801851,0.031425255860766
+"113","volume","introducepo",-0.745869853982892,0.0210263031060696
+"114","volume","variabletofield",-0.254273813857804,0.509101514754861

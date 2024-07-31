@@ -1,0 +1,25 @@
+System,Refactoring,Refactoring Number,totalNewFiles,totalNewVolumeInMonths,totalNewVolumeInLoc
+jodatime,extractmethod,1,1,0.5893333333333334,442
+jodatime,extractmethod,2,1,0.5533333333333333,415
+jodatime,extractmethod,3,1,0.868,651
+jodatime,extractmethod,4,1,0.24266666666666667,182
+jodatime,extractvariable,1,1,0.216,162
+jodatime,extractvariable,2,1,0.4746666666666667,356
+jodatime,extractvariable,3,1,0.4746666666666667,356
+jodatime,extractvariable,4,0,0,0
+jodatime,inline,1,1,0.36666666666666664,275
+jodatime,inline,2,2,0.37866666666666665,284
+jodatime,inline,3,1,0.484,363
+jodatime,inline,4,1,0.9053333333333333,679
+jodatime,introduceindirection,1,5,3.490666666666667,2618
+jodatime,introduceindirection,2,3,1.4093333333333333,1057
+jodatime,introduceindirection,3,3,2.309333333333333,1732
+jodatime,introduceindirection,4,7,0.7613333333333334,571
+jodatime,introducepo,1,7,1.9506666666666665,1463
+jodatime,introducepo,2,3,0.644,483
+jodatime,introducepo,3,4,1.956,1467
+jodatime,introducepo,4,0,0.0,0
+jodatime,variabletofield,1,1,0.416,312
+jodatime,variabletofield,2,1,1.2306666666666666,923
+jodatime,variabletofield,3,1,0.348,261
+jodatime,variabletofield,4,1,0.4746666666666667,356

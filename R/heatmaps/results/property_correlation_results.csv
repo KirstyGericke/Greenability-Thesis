@@ -1,0 +1,25 @@
+"","Metric","Refactoring","cor_value","p_value"
+"1","Architecture Quality","extractmethod",-0.633333333333333,0.0760361552028219
+"2","Architecture Quality","extractvariable",-0.864530967116533,0.00263237184483384
+"3","Architecture Quality","inline",-0.633333333333333,0.0760361552028219
+"4","Architecture Quality","introduceindirection",-0.616666666666667,0.0857253086419753
+"5","Architecture Quality","introducepo",-0.616666666666667,0.0857253086419753
+"6","Architecture Quality","variabletofield",-0.2,0.613403880070547
+"7","Maintainability","extractmethod",-0.65,0.0665619488536155
+"8","Maintainability","extractvariable",-0.457692864944047,0.215411702960091
+"9","Maintainability","inline",-0.466666666666667,0.212522045855379
+"10","Maintainability","introduceindirection",-0.316666666666667,0.410080467372134
+"11","Maintainability","introducepo",-0.7,0.0432539682539683
+"12","Maintainability","variabletofield",0.333333333333333,0.385322971781305
+"13","Reliability","extractmethod",-0.559402390487169,0.11733810288497
+"14","Reliability","extractvariable",-0.775862068965517,0.0139864878535321
+"15","Reliability","inline",-0.440741277353527,0.235068709963643
+"16","Reliability","introduceindirection",-0.474644452534567,0.196696052349391
+"17","Reliability","introducepo",-0.491596040125088,0.17892749146834
+"18","Reliability","variabletofield",-0.525499215306128,0.146240258312317
+"19","Open Source Health","extractmethod",-0.493943700175429,0.213093509374612
+"20","Open Source Health","extractvariable",-0.26180422838065,0.515218822391308
+"21","Open Source Health","inline",-0.0638329999074359,0.677440920704404
+"22","Open Source Health","introduceindirection",-0.314399586295503,0.458426308547639
+"23","Open Source Health","introducepo",-0.352119688316994,0.381484512163482
+"24","Open Source Health","variabletofield",0.164342359099643,0.618945789839075

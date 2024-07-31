@@ -1,0 +1,113 @@
+{
+  "snapshotDates": [
+    "2024-06-11",
+    "2024-06-12"
+  ],
+  "totalNewFiles": 1,
+  "totalNewVolumeInMonths": 0.2813333333333333,
+  "totalNewVolumeInLoc": 211,
+  "newFiles": [
+    {
+      "moduleId": 85297638,
+      "path": "src/app/sudoku/Puzzle.java",
+      "volumeInMonths": 0.2813333333333333,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": -0.0013907826561221776,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.046632124352331605,
+      "moduleCouplingRiskDelta": 0.0
+    }
+  ],
+  "oldMaintainabilityRating": 4.180015349673797,
+  "maintainabilityRating": 4.150271420161096,
+  "oldOnlyChangedModulesRating": null,
+  "newCodeRating": 5.328809898063792,
+  "volumeInMonths": 0.5053333333333333,
+  "volumeInLoc": 379,
+  "duplication": {
+    "old": {
+      "rating": 5.5,
+      "lowRisk": 100.0,
+      "moderateRisk": 0,
+      "highRisk": 0,
+      "veryHighRisk": 0.0
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 5.5,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitSize": {
+    "old": {
+      "rating": 5.30251250560516,
+      "lowRisk": 95.06105263157895,
+      "moderateRisk": 4.938947368421053,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 5.150048066927278,
+      "lowRisk": 91.19170984455958,
+      "moderateRisk": 8.808290155440414,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitComplexity": {
+    "old": {
+      "rating": 5.5,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 5.5,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitInterfacing": {
+    "old": {
+      "rating": 5.1221167508086705,
+      "lowRisk": 97.44571428571429,
+      "moderateRisk": 2.554285714285714,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 4.830383050655778,
+      "lowRisk": 95.33678756476685,
+      "moderateRisk": 4.66321243523316,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  },
+  "moduleCoupling": {
+    "old": {
+      "rating": 0.8151934637202608,
+      "lowRisk": 60.266666666666666,
+      "moderateRisk": 0.0,
+      "highRisk": 39.733333333333334,
+      "veryHighRisk": 0.0
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": null,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  }
+}

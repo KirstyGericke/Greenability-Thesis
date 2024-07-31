@@ -1,0 +1,113 @@
+{
+  "snapshotDates": [
+    "2024-06-11",
+    "2024-06-12"
+  ],
+  "totalNewFiles": 1,
+  "totalNewVolumeInMonths": 0.9266666666666666,
+  "totalNewVolumeInLoc": 695,
+  "newFiles": [
+    {
+      "moduleId": 85147694,
+      "path": "src/java/org/apache/commons/collections/map/AbstractHashedMap.java",
+      "volumeInMonths": 0.9266666666666666,
+      "status": "changed",
+      "duplicationRiskDelta": 0.00040283568280520543,
+      "unitSizeRiskDelta": 0.0015923647759768511,
+      "unitComplexityRiskDelta": 0.0011657024436577401,
+      "unitInterfacingRiskDelta": 0.003568217719693012,
+      "moduleCouplingRiskDelta": 0.0
+    }
+  ],
+  "oldMaintainabilityRating": 3.7287648972064176,
+  "maintainabilityRating": 3.729385930490041,
+  "oldOnlyChangedModulesRating": null,
+  "newCodeRating": 3.569530463557507,
+  "volumeInMonths": 35.56151374779897,
+  "volumeInLoc": 26744,
+  "duplication": {
+    "old": {
+      "rating": 2.41797706965665,
+      "lowRisk": 88.57827676073683,
+      "moderateRisk": 0,
+      "highRisk": 0,
+      "veryHighRisk": 11.421723239263175
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 2.4716590920768713,
+      "lowRisk": 89.72769008846734,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 10.272309911532664
+    }
+  },
+  "unitSize": {
+    "old": {
+      "rating": 4.21402863726808,
+      "lowRisk": 76.16487531437981,
+      "moderateRisk": 14.867474433730054,
+      "highRisk": 7.088552915766738,
+      "veryHighRisk": 2.526997840172786
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 4.34762955430252,
+      "lowRisk": 71.8849840255591,
+      "moderateRisk": 22.843450479233226,
+      "highRisk": 5.271565495207668,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitComplexity": {
+    "old": {
+      "rating": 3.5470262248171753,
+      "lowRisk": 83.85745140388768,
+      "moderateRisk": 9.268607800892458,
+      "highRisk": 5.587707758779141,
+      "veryHighRisk": 0.5786329602961486
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 3.50729708811169,
+      "lowRisk": 80.83067092651758,
+      "moderateRisk": 13.89776357827476,
+      "highRisk": 5.271565495207668,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitInterfacing": {
+    "old": {
+      "rating": 4.379920692804128,
+      "lowRisk": 93.64420477902335,
+      "moderateRisk": 5.425219469210634,
+      "highRisk": 0.9947414548641542,
+      "veryHighRisk": 0.0
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 4.395775151366205,
+      "lowRisk": 92.81150159744409,
+      "moderateRisk": 6.230031948881789,
+      "highRisk": 0.9584664536741214,
+      "veryHighRisk": 0.0
+    }
+  },
+  "moduleCoupling": {
+    "old": {
+      "rating": 3.1860944688393222,
+      "lowRisk": 88.47775709455608,
+      "moderateRisk": 5.348934391976599,
+      "highRisk": 2.978383922805156,
+      "veryHighRisk": 3.1949245906621586
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": null,
+      "lowRisk": 0.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 100.0
+    }
+  }
+}

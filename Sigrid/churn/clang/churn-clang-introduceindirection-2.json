@@ -1,0 +1,410 @@
+{
+  "snapshotDates": [
+    "2024-06-11",
+    "2024-06-12"
+  ],
+  "totalNewFiles": 28,
+  "totalNewVolumeInMonths": 13.429333333333332,
+  "totalNewVolumeInLoc": 10072,
+  "newFiles": [
+    {
+      "moduleId": 85194648,
+      "path": "src/main/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java",
+      "volumeInMonths": 0.09466666666666666,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194437,
+      "path": "src/main/java/org/apache/commons/lang3/time/DurationFormatUtils.java",
+      "volumeInMonths": 0.488,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194386,
+      "path": "src/main/java/org/apache/commons/lang3/CharSet.java",
+      "volumeInMonths": 0.132,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194395,
+      "path": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+      "volumeInMonths": 0.888,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194550,
+      "path": "src/main/java/org/apache/commons/lang3/Validate.java",
+      "volumeInMonths": 0.3253333333333333,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194362,
+      "path": "src/main/java/org/apache/commons/lang3/text/StrTokenizer.java",
+      "volumeInMonths": 0.5626666666666666,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194707,
+      "path": "src/main/java/org/apache/commons/lang3/ClassUtils.java",
+      "volumeInMonths": 0.6546666666666666,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194655,
+      "path": "src/main/java/org/apache/commons/lang3/time/DateUtils.java",
+      "volumeInMonths": 0.7746666666666666,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194549,
+      "path": "src/main/java/org/apache/commons/lang3/exception/DefaultExceptionContext.java",
+      "volumeInMonths": 0.12133333333333333,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194518,
+      "path": "src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java",
+      "volumeInMonths": 1.0653333333333332,
+      "status": "changed",
+      "duplicationRiskDelta": -0.0006695106055219779,
+      "unitSizeRiskDelta": -0.0015575535013296338,
+      "unitComplexityRiskDelta": -0.0015466994699614434,
+      "unitInterfacingRiskDelta": -0.002263065540259346,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194399,
+      "path": "src/main/java/org/apache/commons/lang3/text/StrMatcher.java",
+      "volumeInMonths": 0.18266666666666667,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194608,
+      "path": "src/main/java/org/apache/commons/lang3/text/translate/UnicodeUnescaper.java",
+      "volumeInMonths": 0.042666666666666665,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194471,
+      "path": "src/main/java/org/apache/commons/lang3/exception/ExceptionUtils.java",
+      "volumeInMonths": 0.3413333333333333,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194476,
+      "path": "src/main/java/org/apache/commons/lang3/CharSequenceUtils.java",
+      "volumeInMonths": 0.09466666666666666,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194577,
+      "path": "src/main/java/org/apache/commons/lang3/text/StrBuilder.java",
+      "volumeInMonths": 1.6826666666666668,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": -0.003894395860582933,
+      "unitComplexityRiskDelta": -0.0035311879564871584,
+      "unitInterfacingRiskDelta": -0.00280477214829547,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194547,
+      "path": "src/main/java/org/apache/commons/lang3/text/WordUtils.java",
+      "volumeInMonths": 0.232,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194601,
+      "path": "src/main/java/org/apache/commons/lang3/BooleanUtils.java",
+      "volumeInMonths": 0.488,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194436,
+      "path": "src/main/java/org/apache/commons/lang3/StringEscapeUtils.java",
+      "volumeInMonths": 0.228,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194551,
+      "path": "src/main/java/org/apache/commons/lang3/text/FormattableUtils.java",
+      "volumeInMonths": 0.06,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194664,
+      "path": "src/main/java/org/apache/commons/lang3/text/translate/LookupTranslator.java",
+      "volumeInMonths": 0.06,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194592,
+      "path": "src/main/java/org/apache/commons/lang3/text/translate/OctalUnescaper.java",
+      "volumeInMonths": 0.032,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194491,
+      "path": "src/main/java/org/apache/commons/lang3/LocaleUtils.java",
+      "volumeInMonths": 0.18266666666666667,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194638,
+      "path": "src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java",
+      "volumeInMonths": 0.06933333333333333,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194566,
+      "path": "src/main/java/org/apache/commons/lang3/text/StrSubstitutor.java",
+      "volumeInMonths": 0.45466666666666666,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194626,
+      "path": "src/main/java/org/apache/commons/lang3/StringUtils.java",
+      "volumeInMonths": 2.8013333333333335,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194685,
+      "path": "src/main/java/org/apache/commons/lang3/CharSetUtils.java",
+      "volumeInMonths": 0.10266666666666667,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194710,
+      "path": "src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.java",
+      "volumeInMonths": 0.4186666666666667,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85194462,
+      "path": "src/main/java/org/apache/commons/lang3/math/NumberUtils.java",
+      "volumeInMonths": 0.8493333333333334,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    }
+  ],
+  "oldMaintainabilityRating": 3.022917263485053,
+  "maintainabilityRating": 3.023048829067778,
+  "oldOnlyChangedModulesRating": null,
+  "newCodeRating": 2.1105358405645136,
+  "volumeInMonths": 30.605337125829614,
+  "volumeInLoc": 23879,
+  "duplication": {
+    "old": {
+      "rating": 3.125554465619194,
+      "lowRisk": 93.43699157994624,
+      "moderateRisk": 0,
+      "highRisk": 0,
+      "veryHighRisk": 6.563008420053759
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 3.6489956702620585,
+      "lowRisk": 95.28398319212677,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 4.716016807873224
+    }
+  },
+  "unitSize": {
+    "old": {
+      "rating": 3.530921499640218,
+      "lowRisk": 60.88498287698779,
+      "moderateRisk": 23.72739606505134,
+      "highRisk": 8.48300011295606,
+      "veryHighRisk": 7.6640686772845354
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 3.0081941739858897,
+      "lowRisk": 56.23523122549836,
+      "moderateRisk": 22.498633260662206,
+      "highRisk": 9.391108476525668,
+      "veryHighRisk": 11.875027037313767
+    }
+  },
+  "unitComplexity": {
+    "old": {
+      "rating": 2.3603294627356606,
+      "lowRisk": 63.938777815429795,
+      "moderateRisk": 23.15878262230023,
+      "highRisk": 7.884093358641968,
+      "veryHighRisk": 4.014667321389609
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 2.1699491208794046,
+      "lowRisk": 59.22888098132659,
+      "moderateRisk": 23.222937118439017,
+      "highRisk": 9.776231684100667,
+      "veryHighRisk": 7.771950216133722
+    }
+  },
+  "unitInterfacing": {
+    "old": {
+      "rating": 2.0242300436607623,
+      "lowRisk": 71.70507855218231,
+      "moderateRisk": 25.05122719456154,
+      "highRisk": 2.3166023166023164,
+      "veryHighRisk": 0.9797777448236801
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 1.7531463911924412,
+      "lowRisk": 66.83534733886744,
+      "moderateRisk": 29.191147800955942,
+      "highRisk": 2.6610851150764505,
+      "veryHighRisk": 1.3124197451001745
+    }
+  },
+  "moduleCoupling": {
+    "old": {
+      "rating": 1.9022651003325093,
+      "lowRisk": 70.08051694958716,
+      "moderateRisk": 7.282424739730242,
+      "highRisk": 18.554797681932403,
+      "veryHighRisk": 4.082260628750192
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 0.5503624601371523,
+      "lowRisk": 49.48371723590152,
+      "moderateRisk": 6.612390786338364,
+      "highRisk": 35.97100873709293,
+      "veryHighRisk": 7.932883240667195
+    }
+  }
+}

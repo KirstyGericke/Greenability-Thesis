@@ -1,0 +1,113 @@
+{
+  "snapshotDates": [
+    "2024-06-11",
+    "2024-06-12"
+  ],
+  "totalNewFiles": 1,
+  "totalNewVolumeInMonths": 0.256,
+  "totalNewVolumeInLoc": 192,
+  "newFiles": [
+    {
+      "moduleId": 85270096,
+      "path": "src/main/java/org/apache/commons/math3/util/Precision.java",
+      "volumeInMonths": 0.256,
+      "status": "changed",
+      "duplicationRiskDelta": -0.0002834199338686838,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    }
+  ],
+  "oldMaintainabilityRating": 2.738141792036575,
+  "maintainabilityRating": 2.738149127067581,
+  "oldOnlyChangedModulesRating": null,
+  "newCodeRating": 1.9397660907984844,
+  "volumeInMonths": 91.02394202898546,
+  "volumeInLoc": 70061,
+  "duplication": {
+    "old": {
+      "rating": 3.360466532268062,
+      "lowRisk": 94.2628726548592,
+      "moderateRisk": 0,
+      "highRisk": 0,
+      "veryHighRisk": 5.737127345140798
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 3.815094757300496,
+      "lowRisk": 95.89041095890411,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 4.10958904109589
+    }
+  },
+  "unitSize": {
+    "old": {
+      "rating": 2.448282873478466,
+      "lowRisk": 54.240318982333456,
+      "moderateRisk": 17.334796145151383,
+      "highRisk": 15.085694144600609,
+      "veryHighRisk": 18.73595629378332
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 1.5664198836594396,
+      "lowRisk": 56.25,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 43.75
+    }
+  },
+  "unitComplexity": {
+    "old": {
+      "rating": 2.1497294080290947,
+      "lowRisk": 61.38476450632242,
+      "moderateRisk": 13.75040811552593,
+      "highRisk": 10.71462576417882,
+      "veryHighRisk": 8.166416641822478
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 1.4183664814893346,
+      "lowRisk": 56.25,
+      "moderateRisk": 0.0,
+      "highRisk": 43.75,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitInterfacing": {
+    "old": {
+      "rating": 2.5803974675589068,
+      "lowRisk": 82.879809208024,
+      "moderateRisk": 12.194555289385612,
+      "highRisk": 4.533638806890779,
+      "veryHighRisk": 0.818515516899161
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 0.5,
+      "lowRisk": 12.5,
+      "moderateRisk": 87.5,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  },
+  "moduleCoupling": {
+    "old": {
+      "rating": 1.8162709871774774,
+      "lowRisk": 68.66304277486572,
+      "moderateRisk": 8.58085808580858,
+      "highRisk": 8.315537436096552,
+      "veryHighRisk": 14.440561703229147
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": null,
+      "lowRisk": 0.0,
+      "moderateRisk": 100.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  }
+}

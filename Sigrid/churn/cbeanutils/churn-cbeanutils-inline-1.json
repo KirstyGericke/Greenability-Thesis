@@ -1,0 +1,40 @@
+{
+  "snapshotDates": [
+    "2024-06-12"
+  ],
+  "totalNewFiles": 0,
+  "totalNewVolumeInMonths": 0.0,
+  "totalNewVolumeInLoc": 0,
+  "newFiles": [],
+  "oldMaintainabilityRating": null,
+  "maintainabilityRating": 2.6341040409874865,
+  "oldOnlyChangedModulesRating": null,
+  "newCodeRating": null,
+  "volumeInMonths": 17.388696193959095,
+  "volumeInLoc": 13433,
+  "duplication": {
+    "old": null,
+    "oldOnlyChangedModules": null,
+    "new": null
+  },
+  "unitSize": {
+    "old": null,
+    "oldOnlyChangedModules": null,
+    "new": null
+  },
+  "unitComplexity": {
+    "old": null,
+    "oldOnlyChangedModules": null,
+    "new": null
+  },
+  "unitInterfacing": {
+    "old": null,
+    "oldOnlyChangedModules": null,
+    "new": null
+  },
+  "moduleCoupling": {
+    "old": null,
+    "oldOnlyChangedModules": null,
+    "new": null
+  }
+}

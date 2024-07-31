@@ -1,0 +1,25 @@
+System,Refactoring,Refactoring Number,totalNewFiles,totalNewVolumeInMonths,totalNewVolumeInLoc
+clang,extractmethod,1,1,0.18533333333333332,139
+clang,extractmethod,2,1,0.5666666666666667,425
+clang,extractmethod,3,1,1.0666666666666667,800
+clang,extractmethod,4,1,2.7333333333333334,2050
+clang,extractvariable,1,1,0.132,99
+clang,extractvariable,2,1,2.8013333333333335,2101
+clang,extractvariable,3,1,0.042666666666666665,32
+clang,extractvariable,4,0,0,0
+clang,inline,1,1,0.5613333333333334,421
+clang,inline,2,0,0.0,0
+clang,inline,3,1,0.02,15
+clang,inline,4,1,0.5573333333333333,418
+clang,introduceindirection,1,3,0.29066666666666663,218
+clang,introduceindirection,2,28,13.429333333333332,10072
+clang,introduceindirection,3,1,0.5666666666666667,425
+clang,introduceindirection,4,1,0.032,24
+clang,introducepo,1,3,0.12533333333333332,94
+clang,introducepo,2,2,0.13333333333333333,100
+clang,introducepo,3,1,0.009333333333333334,7
+clang,introducepo,4,1,0.009333333333333334,7
+clang,variabletofield,1,1,0.06,45
+clang,variabletofield,2,1,0.06933333333333333,52
+clang,variabletofield,3,1,0.09466666666666666,71
+clang,variabletofield,4,1,0.592,444

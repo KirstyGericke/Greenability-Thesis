@@ -1,0 +1,25 @@
+maintainability,3.241464404417847
+componentIndependence,0.0
+componentEntanglement,0.0
+duplication,5.392400173051519
+moduleCoupling,1.8527996243193963
+testCodeRatio,2.48050139275766
+unitComplexity,2.209958784706052
+unitInterfacing,2.064989862326519
+unitSize,2.890744205105947
+volume,5.5
+reliability,5.5
+architecture,4.84503
+codeBreakdown,1.74713
+componentCoupling,5.5
+technologyPrevalence,5.06928
+componentCohesion,5.5
+codeReuse,5.5
+communicationCentralization,5.5
+dataCoupling,0.0
+boundedEvolution,0.0
+knowledgeDistribution,0.0
+componentFreshness,0.0
+Freshness Risk,5.5
+Activity Risk,5.5
+Management Risk,5.5

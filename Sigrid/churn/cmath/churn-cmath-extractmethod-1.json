@@ -1,0 +1,113 @@
+{
+  "snapshotDates": [
+    "2024-06-11",
+    "2024-06-12"
+  ],
+  "totalNewFiles": 1,
+  "totalNewVolumeInMonths": 1.46,
+  "totalNewVolumeInLoc": 1095,
+  "newFiles": [
+    {
+      "moduleId": 85217820,
+      "path": "src/main/java/org/apache/commons/math3/linear/BlockRealMatrix.java",
+      "volumeInMonths": 1.46,
+      "status": "changed",
+      "duplicationRiskDelta": -0.008197749823399436,
+      "unitSizeRiskDelta": -0.0027477153482873273,
+      "unitComplexityRiskDelta": -0.007136922982564742,
+      "unitInterfacingRiskDelta": 0.027370099638135748,
+      "moduleCouplingRiskDelta": 0.0
+    }
+  ],
+  "oldMaintainabilityRating": 2.7381417920365743,
+  "maintainabilityRating": 2.7375015778240375,
+  "oldOnlyChangedModulesRating": null,
+  "newCodeRating": 1.7014129148387966,
+  "volumeInMonths": 91.03194202898545,
+  "volumeInLoc": 70067,
+  "duplication": {
+    "old": {
+      "rating": 3.3604665322680622,
+      "lowRisk": 94.2628726548592,
+      "moderateRisk": 0,
+      "highRisk": 0,
+      "veryHighRisk": 5.737127345140798
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 1.1923189365770335,
+      "lowRisk": 64.21546936035156,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 35.78453063964844
+    }
+  },
+  "unitSize": {
+    "old": {
+      "rating": 2.448282873478466,
+      "lowRisk": 54.240318982333505,
+      "moderateRisk": 17.334796145151365,
+      "highRisk": 15.085694144600609,
+      "veryHighRisk": 18.73595629378332
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 1.5318206000858814,
+      "lowRisk": 19.685863874345554,
+      "moderateRisk": 52.14659685863874,
+      "highRisk": 20.523560209424083,
+      "veryHighRisk": 7.643979057591623
+    }
+  },
+  "unitComplexity": {
+    "old": {
+      "rating": 2.1497294080290947,
+      "lowRisk": 61.38476450632242,
+      "moderateRisk": 13.750408115525921,
+      "highRisk": 10.714625764178813,
+      "veryHighRisk": 8.166416641822472
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 2.130017326858132,
+      "lowRisk": 58.1151832460733,
+      "moderateRisk": 41.8848167539267,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitInterfacing": {
+    "old": {
+      "rating": 2.5803974675589068,
+      "lowRisk": 82.87980920802401,
+      "moderateRisk": 12.194555289385606,
+      "highRisk": 4.533638806890779,
+      "veryHighRisk": 0.8185155168991605
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 1.7729722648101474,
+      "lowRisk": 74.45026178010471,
+      "moderateRisk": 12.774869109947645,
+      "highRisk": 11.727748691099476,
+      "veryHighRisk": 1.0471204188481675
+    }
+  },
+  "moduleCoupling": {
+    "old": {
+      "rating": 1.8162709871774774,
+      "lowRisk": 68.66304277486574,
+      "moderateRisk": 8.58085808580858,
+      "highRisk": 8.315537436096548,
+      "veryHighRisk": 14.440561703229147
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": null,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  }
+}

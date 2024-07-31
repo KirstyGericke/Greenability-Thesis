@@ -1,0 +1,136 @@
+{
+  "snapshotDates": [
+    "2024-06-11",
+    "2024-06-12",
+    "2024-06-12"
+  ],
+  "totalNewFiles": 3,
+  "totalNewVolumeInMonths": 2.529333333333333,
+  "totalNewVolumeInLoc": 1897,
+  "newFiles": [
+    {
+      "moduleId": 85133640,
+      "path": "src/main/java/org/apache/commons/beanutils/BeanUtilsBean.java",
+      "volumeInMonths": 0.7173333333333334,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0007838767079367814,
+      "unitSizeRiskDelta": 0.05718749866593775,
+      "unitComplexityRiskDelta": -0.0024973638936676146,
+      "unitInterfacingRiskDelta": -0.006505953117862839,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85133570,
+      "path": "src/main/java/org/apache/commons/beanutils/PropertyUtilsBean.java",
+      "volumeInMonths": 1.6053333333333333,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0003962391413732669,
+      "unitSizeRiskDelta": 0.010118481362968001,
+      "unitComplexityRiskDelta": 0.009087895298221405,
+      "unitInterfacingRiskDelta": -0.001225172244803785,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85133778,
+      "path": "src/main/java/org/apache/commons/beanutils/PropertyUtils.java",
+      "volumeInMonths": 0.20666666666666667,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": -0.009677419354838679,
+      "moduleCouplingRiskDelta": 0.0
+    }
+  ],
+  "oldMaintainabilityRating": 2.6340252034604603,
+  "maintainabilityRating": 2.6285224256066013,
+  "oldOnlyChangedModulesRating": null,
+  "newCodeRating": 0.8797822184787206,
+  "volumeInMonths": 17.398029527292422,
+  "volumeInLoc": 13440,
+  "duplication": {
+    "old": {
+      "rating": 2.559633008010409,
+      "lowRisk": 88.28834725339767,
+      "moderateRisk": 0,
+      "highRisk": 0,
+      "veryHighRisk": 11.711652746602315
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 1.6383975283845063,
+      "lowRisk": 75.25310346556726,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 24.746896534432736
+    }
+  },
+  "unitSize": {
+    "old": {
+      "rating": 2.8421986939681716,
+      "lowRisk": 46.14166857530464,
+      "moderateRisk": 19.985830412209193,
+      "highRisk": 18.092410465763592,
+      "veryHighRisk": 17.572833549823716
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 1.1841635468360439,
+      "lowRisk": 17.885194223647932,
+      "moderateRisk": 9.753543079751658,
+      "highRisk": 25.875679561368276,
+      "veryHighRisk": 46.485583135232126
+    }
+  },
+  "unitComplexity": {
+    "old": {
+      "rating": 2.3408456675159726,
+      "lowRisk": 61.551308220449066,
+      "moderateRisk": 16.848721808676103,
+      "highRisk": 20.4078441996124,
+      "veryHighRisk": 1.3063554382758404
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 0.5,
+      "lowRisk": 23.35751595495062,
+      "moderateRisk": 10.618870904722566,
+      "highRisk": 57.695971635692345,
+      "veryHighRisk": 8.327641504634467
+    }
+  },
+  "unitInterfacing": {
+    "old": {
+      "rating": 2.366933577765162,
+      "lowRisk": 76.94326479775076,
+      "moderateRisk": 22.501916210726375,
+      "highRisk": 0.47759374047352915,
+      "veryHighRisk": 0.0
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 1.0321658771409417,
+      "lowRisk": 53.90935499720195,
+      "moderateRisk": 46.09064500279805,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  },
+  "moduleCoupling": {
+    "old": {
+      "rating": 0.87643711691182,
+      "lowRisk": 54.56703296703296,
+      "moderateRisk": 12.896703296703297,
+      "highRisk": 6.3296703296703285,
+      "veryHighRisk": 26.20659340659341
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 0.5,
+      "lowRisk": 0.0,
+      "moderateRisk": 8.170795993674222,
+      "highRisk": 0.0,
+      "veryHighRisk": 91.8292040063258
+    }
+  }
+}

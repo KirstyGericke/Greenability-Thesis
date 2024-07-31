@@ -1,0 +1,25 @@
+System,Refactoring,Refactoring Number,totalNewFiles,totalNewVolumeInMonths,totalNewVolumeInLoc
+jodaconvert,extractmethod,1,1,0.36,270
+jodaconvert,extractmethod,2,1,0.3586666666666667,269
+jodaconvert,extractmethod,3,1,0.04666666666666667,35
+jodaconvert,extractmethod,4,1,0.384,288
+jodaconvert,extractvariable,1,0,0,0
+jodaconvert,extractvariable,2,0,0,0
+jodaconvert,extractvariable,3,0,0,0
+jodaconvert,extractvariable,4,0,0,0
+jodaconvert,inline,1,1,0.352,264
+jodaconvert,inline,2,1,0.34933333333333333,262
+jodaconvert,inline,3,1,0.42933333333333334,322
+jodaconvert,inline,4,1,0.38133333333333336,286
+jodaconvert,introduceindirection,1,1,0.35733333333333334,268
+jodaconvert,introduceindirection,2,1,0.3586666666666667,269
+jodaconvert,introduceindirection,3,1,0.3586666666666667,269
+jodaconvert,introduceindirection,4,1,0.3586666666666667,269
+jodaconvert,introducepo,1,1,0.006666666666666667,5
+jodaconvert,introducepo,2,1,0.006666666666666667,5
+jodaconvert,introducepo,3,1,0.013333333333333334,10
+jodaconvert,introducepo,4,1,0.009333333333333334,7
+jodaconvert,variabletofield,1,1,0.3546666666666667,266
+jodaconvert,variabletofield,2,1,0.3546666666666667,266
+jodaconvert,variabletofield,3,0,0.0,0
+jodaconvert,variabletofield,4,1,0.3546666666666667,266

@@ -1,0 +1,113 @@
+{
+  "snapshotDates": [
+    "2024-06-11",
+    "2024-06-12"
+  ],
+  "totalNewFiles": 1,
+  "totalNewVolumeInMonths": 0.2986666666666667,
+  "totalNewVolumeInLoc": 224,
+  "newFiles": [
+    {
+      "moduleId": 85202939,
+      "path": "src/main/java/org/apache/commons/math3/linear/LUDecomposition.java",
+      "volumeInMonths": 0.2986666666666667,
+      "status": "changed",
+      "duplicationRiskDelta": -0.0008978675645342285,
+      "unitSizeRiskDelta": -0.37854465058156306,
+      "unitComplexityRiskDelta": -0.39190618090935325,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    }
+  ],
+  "oldMaintainabilityRating": 2.7381417920365743,
+  "maintainabilityRating": 2.7389795033173643,
+  "oldOnlyChangedModulesRating": null,
+  "newCodeRating": 2.704709669209627,
+  "volumeInMonths": 91.02794202898554,
+  "volumeInLoc": 70064,
+  "duplication": {
+    "old": {
+      "rating": 3.3604665322680622,
+      "lowRisk": 94.2628726548592,
+      "moderateRisk": 0,
+      "highRisk": 0,
+      "veryHighRisk": 5.737127345140798
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 3.612712996854328,
+      "lowRisk": 95.15151515151516,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 4.848484848484849
+    }
+  },
+  "unitSize": {
+    "old": {
+      "rating": 2.448282873478466,
+      "lowRisk": 54.240318982333534,
+      "moderateRisk": 17.33479614515135,
+      "highRisk": 15.085694144600609,
+      "veryHighRisk": 18.73595629378332
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 2.1413942628704845,
+      "lowRisk": 33.495145631067956,
+      "moderateRisk": 21.35922330097087,
+      "highRisk": 45.14563106796117,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitComplexity": {
+    "old": {
+      "rating": 2.1497294080290947,
+      "lowRisk": 61.38476450632242,
+      "moderateRisk": 13.750408115525909,
+      "highRisk": 10.714625764178805,
+      "veryHighRisk": 8.16641664182247
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 1.543154278075797,
+      "lowRisk": 41.74757281553397,
+      "moderateRisk": 37.37864077669903,
+      "highRisk": 20.87378640776699,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitInterfacing": {
+    "old": {
+      "rating": 2.5803974675589068,
+      "lowRisk": 82.87980920802401,
+      "moderateRisk": 12.194555289385601,
+      "highRisk": 4.533638806890779,
+      "veryHighRisk": 0.8185155168991601
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 5.5,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  },
+  "moduleCoupling": {
+    "old": {
+      "rating": 1.8162709871774774,
+      "lowRisk": 68.66304277486574,
+      "moderateRisk": 8.58085808580858,
+      "highRisk": 8.315537436096546,
+      "veryHighRisk": 14.440561703229147
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": null,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  }
+}

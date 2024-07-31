@@ -1,0 +1,135 @@
+{
+  "snapshotDates": [
+    "2024-06-11",
+    "2024-06-12"
+  ],
+  "totalNewFiles": 3,
+  "totalNewVolumeInMonths": 0.376,
+  "totalNewVolumeInLoc": 282,
+  "newFiles": [
+    {
+      "moduleId": 85325578,
+      "path": "src/main/java/org/apache/commons/math3/analysis/solvers/SolveParameter.java",
+      "volumeInMonths": 0.02,
+      "status": "new",
+      "duplicationRiskDelta": -0.05737127345140798,
+      "unitSizeRiskDelta": -1.0371405331570256,
+      "unitComplexityRiskDelta": -0.5967890956935097,
+      "unitInterfacingRiskDelta": 0.7628262054613536,
+      "moduleCouplingRiskDelta": -0.6853361806768911
+    },
+    {
+      "moduleId": 85243735,
+      "path": "src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java",
+      "volumeInMonths": 0.14533333333333334,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": -0.02945990180032787,
+      "unitComplexityRiskDelta": -0.019639934533551617,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85243375,
+      "path": "src/main/java/org/apache/commons/math3/analysis/solvers/UnivariateSolverUtils.java",
+      "volumeInMonths": 0.21066666666666667,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": -0.05343511450381677,
+      "moduleCouplingRiskDelta": 0.0
+    }
+  ],
+  "oldMaintainabilityRating": 2.7381417920365743,
+  "maintainabilityRating": 2.7382662483286726,
+  "oldOnlyChangedModulesRating": null,
+  "newCodeRating": 1.8492864534064135,
+  "volumeInMonths": 91.03727536231888,
+  "volumeInLoc": 70071,
+  "duplication": {
+    "old": {
+      "rating": 3.3604665322680622,
+      "lowRisk": 94.2628726548592,
+      "moderateRisk": 0,
+      "highRisk": 0,
+      "veryHighRisk": 5.737127345140798
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 5.5,
+      "lowRisk": 100.0,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitSize": {
+    "old": {
+      "rating": 2.448282873478466,
+      "lowRisk": 54.240318982333505,
+      "moderateRisk": 17.33479614515137,
+      "highRisk": 15.085694144600609,
+      "veryHighRisk": 18.73595629378332
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 2.079558479710201,
+      "lowRisk": 39.88018640446771,
+      "moderateRisk": 12.40322667966001,
+      "highRisk": 20.95717611390829,
+      "veryHighRisk": 26.759410801963995
+    }
+  },
+  "unitComplexity": {
+    "old": {
+      "rating": 2.1497294080290947,
+      "lowRisk": 61.38476450632242,
+      "moderateRisk": 13.750408115525921,
+      "highRisk": 10.714625764178813,
+      "veryHighRisk": 8.166416641822472
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 1.2501553404914005,
+      "lowRisk": 39.88018640446771,
+      "moderateRisk": 12.40322667966001,
+      "highRisk": 47.716586915872284,
+      "veryHighRisk": 0.0
+    }
+  },
+  "unitInterfacing": {
+    "old": {
+      "rating": 2.5803974675589068,
+      "lowRisk": 82.87980920802401,
+      "moderateRisk": 12.194555289385601,
+      "highRisk": 4.533638806890779,
+      "veryHighRisk": 0.8185155168991604
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 0.5,
+      "lowRisk": 45.923339288614585,
+      "moderateRisk": 20.716257917817117,
+      "highRisk": 12.40322667966001,
+      "veryHighRisk": 20.95717611390829
+    }
+  },
+  "moduleCoupling": {
+    "old": {
+      "rating": 1.8162709871774774,
+      "lowRisk": 68.66304277486574,
+      "moderateRisk": 8.58085808580858,
+      "highRisk": 8.315537436096543,
+      "veryHighRisk": 14.440561703229147
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 0.5,
+      "lowRisk": 5.319148936170204,
+      "moderateRisk": 94.68085106382979,
+      "highRisk": 0.0,
+      "veryHighRisk": 0.0
+    }
+  }
+}

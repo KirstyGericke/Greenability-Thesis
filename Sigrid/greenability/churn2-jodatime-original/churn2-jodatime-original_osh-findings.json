@@ -1,0 +1,143 @@
+{
+  "bomFormat" : "CycloneDX",
+  "specVersion" : "1.5",
+  "version" : 1,
+  "metadata" : {
+    "timestamp" : "2024-06-12T12:22:34Z",
+    "tools" : [
+      {
+        "vendor" : "Software Improvement Group",
+        "name" : "Sigrid",
+        "version" : "2024_osh_sig",
+        "externalReferences" : [
+          {
+            "type" : "other",
+            "url" : "https://sigrid-says.com/sigdelivery/churn2-jodatime-original/-/open-source-health"
+          }
+        ]
+      }
+    ]
+  },
+  "components" : [
+    {
+      "group" : "joda-time",
+      "name" : "joda-time",
+      "version" : "2.1",
+      "licenses" : [ ],
+      "purl" : "pkg:maven/joda-time/joda-time@2.1",
+      "properties" : [
+        {
+          "name" : "sigrid:risk:vulnerability",
+          "value" : "NONE"
+        },
+        {
+          "name" : "sigrid:risk:legal",
+          "value" : "NONE"
+        },
+        {
+          "name" : "sigrid:risk:freshness",
+          "value" : "CRITICAL"
+        },
+        {
+          "name" : "sigrid:risk:activity",
+          "value" : "NONE"
+        },
+        {
+          "name" : "sigrid:risk:stability",
+          "value" : "NONE"
+        },
+        {
+          "name" : "sigrid:risk:management",
+          "value" : "NONE"
+        },
+        {
+          "name" : "sigrid:releaseDate",
+          "value" : "2012-02-22"
+        },
+        {
+          "name" : "sigrid:next:version",
+          "value" : "2.2"
+        },
+        {
+          "name" : "sigrid:next:releaseDate",
+          "value" : "2013-03-08"
+        },
+        {
+          "name" : "sigrid:latest:version",
+          "value" : "2.12.7"
+        },
+        {
+          "name" : "sigrid:latest:releaseDate",
+          "value" : "2024-02-04"
+        }
+      ],
+      "evidence" : {
+        "occurrences" : [
+          {
+            "location" : "joda-time.jar"
+          }
+        ]
+      },
+      "type" : "library",
+      "bom-ref" : "pkg:maven/joda-time/joda-time@2.1"
+    },
+    {
+      "group" : "org.joda",
+      "name" : "joda-convert",
+      "version" : "1.2",
+      "licenses" : [ ],
+      "purl" : "pkg:maven/org.joda/joda-convert@1.2",
+      "properties" : [
+        {
+          "name" : "sigrid:risk:vulnerability",
+          "value" : "NONE"
+        },
+        {
+          "name" : "sigrid:risk:legal",
+          "value" : "NONE"
+        },
+        {
+          "name" : "sigrid:risk:freshness",
+          "value" : "CRITICAL"
+        },
+        {
+          "name" : "sigrid:risk:activity",
+          "value" : "LOW"
+        },
+        {
+          "name" : "sigrid:risk:stability",
+          "value" : "NONE"
+        },
+        {
+          "name" : "sigrid:risk:management",
+          "value" : "MEDIUM"
+        },
+        {
+          "name" : "sigrid:next:version",
+          "value" : "1.4"
+        },
+        {
+          "name" : "sigrid:next:releaseDate",
+          "value" : "2013-08-15"
+        },
+        {
+          "name" : "sigrid:latest:version",
+          "value" : "2.2.3"
+        },
+        {
+          "name" : "sigrid:latest:releaseDate",
+          "value" : "2023-01-15"
+        }
+      ],
+      "evidence" : {
+        "occurrences" : [
+          {
+            "location" : "joda-convert.jar"
+          }
+        ]
+      },
+      "type" : "library",
+      "bom-ref" : "pkg:maven/org.joda/joda-convert@1.2"
+    }
+  ]
+}

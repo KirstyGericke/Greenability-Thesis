@@ -1,0 +1,157 @@
+{
+  "snapshotDates": [
+    "2024-06-11",
+    "2024-06-12"
+  ],
+  "totalNewFiles": 5,
+  "totalNewVolumeInMonths": 3.490666666666667,
+  "totalNewVolumeInLoc": 2618,
+  "newFiles": [
+    {
+      "moduleId": 85289767,
+      "path": "src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java",
+      "volumeInMonths": 2.3826666666666667,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85289374,
+      "path": "src/main/java/org/joda/time/LocalDate.java",
+      "volumeInMonths": 0.8666666666666667,
+      "status": "changed",
+      "duplicationRiskDelta": -0.02801340842643127,
+      "unitSizeRiskDelta": -0.00017765595655042793,
+      "unitComplexityRiskDelta": -0.0002876334534626032,
+      "unitInterfacingRiskDelta": -0.00008459807454782448,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85289537,
+      "path": "src/main/java/org/joda/time/chrono/BasicWeekOfWeekyearDateTimeField.java",
+      "volumeInMonths": 0.08666666666666667,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85289622,
+      "path": "src/main/java/org/joda/time/chrono/BasicDayOfMonthDateTimeField.java",
+      "volumeInMonths": 0.08266666666666667,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    },
+    {
+      "moduleId": 85289295,
+      "path": "src/main/java/org/joda/time/chrono/BasicDayOfYearDateTimeField.java",
+      "volumeInMonths": 0.072,
+      "status": "changed",
+      "duplicationRiskDelta": 0.0,
+      "unitSizeRiskDelta": 0.0,
+      "unitComplexityRiskDelta": 0.0,
+      "unitInterfacingRiskDelta": 0.0,
+      "moduleCouplingRiskDelta": 0.0
+    }
+  ],
+  "oldMaintainabilityRating": 2.8897556087882577,
+  "maintainabilityRating": 2.8929645869131346,
+  "oldOnlyChangedModulesRating": null,
+  "newCodeRating": 1.8650774462211337,
+  "volumeInMonths": 44.29857564675604,
+  "volumeInLoc": 34868,
+  "duplication": {
+    "old": {
+      "rating": 2.923359348933686,
+      "lowRisk": 92.1890522100452,
+      "moderateRisk": 0,
+      "highRisk": 0,
+      "veryHighRisk": 7.810947789954792
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 2.4792447514465414,
+      "lowRisk": 89.85946057737787,
+      "moderateRisk": 0.0,
+      "highRisk": 0.0,
+      "veryHighRisk": 10.140539422622133
+    }
+  },
+  "unitSize": {
+    "old": {
+      "rating": 3.771100164828615,
+      "lowRisk": 70.47912958881264,
+      "moderateRisk": 13.702733655064236,
+      "highRisk": 10.563939634630659,
+      "veryHighRisk": 5.518163956356339
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 3.022175769056717,
+      "lowRisk": 65.36166391238987,
+      "moderateRisk": 9.335722879317409,
+      "highRisk": 13.575986821060711,
+      "veryHighRisk": 11.726626387232008
+    }
+  },
+  "unitComplexity": {
+    "old": {
+      "rating": 2.8902425583421967,
+      "lowRisk": 78.78015133146607,
+      "moderateRisk": 10.593910404120956,
+      "highRisk": 7.5266016081585345,
+      "veryHighRisk": 2.9266742537315964
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 2.2670551422261087,
+      "lowRisk": 67.77734002030105,
+      "moderateRisk": 10.618767639063627,
+      "highRisk": 16.476120228655724,
+      "veryHighRisk": 5.127772111979588
+    }
+  },
+  "unitInterfacing": {
+    "old": {
+      "rating": 3.1290119855044223,
+      "lowRisk": 83.67087388052735,
+      "moderateRisk": 13.095790060128559,
+      "highRisk": 2.180447944451501,
+      "veryHighRisk": 1.099662470009352
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 1.095534625750711,
+      "lowRisk": 55.0733755404148,
+      "moderateRisk": 34.587018397724705,
+      "highRisk": 10.339606061860481,
+      "veryHighRisk": 0.0
+    }
+  },
+  "moduleCoupling": {
+    "old": {
+      "rating": 0.7295242888545741,
+      "lowRisk": 50.113903586125815,
+      "moderateRisk": 8.803644914756026,
+      "highRisk": 14.719282774838325,
+      "veryHighRisk": 26.363168724279834
+    },
+    "oldOnlyChangedModules": null,
+    "new": {
+      "rating": 0.5,
+      "lowRisk": 6.913674560733396,
+      "moderateRisk": 0.0,
+      "highRisk": 24.82811306340718,
+      "veryHighRisk": 68.25821237585943
+    }
+  }
+}

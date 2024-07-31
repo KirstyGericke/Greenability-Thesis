@@ -1,0 +1,21 @@
+{
+  "bomFormat" : "CycloneDX",
+  "specVersion" : "1.5",
+  "version" : 1,
+  "metadata" : {
+    "timestamp" : "2024-06-12T11:31:00Z",
+    "tools" : [
+      {
+        "vendor" : "Software Improvement Group",
+        "name" : "Sigrid",
+        "version" : "2024_osh_sig",
+        "externalReferences" : [
+          {
+            "type" : "other",
+            "url" : "https://sigrid-says.com/sigdelivery/churn2-cmath-original/-/open-source-health"
+          }
+        ]
+      }
+    ]
+  }
+}
