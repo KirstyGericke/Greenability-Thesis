@@ -112,3 +112,4 @@ Email: Kirsten.gericke@softwareimprovementgroup.com
 - First experiement: Uploaded files, exported results, calculated Greenability scores, calculated correlation with energy consumption and scores for inital set of 18 systems. 
 - Churn experiement: Uploaded 197 files (9 apps x 6 refactorings x 4 iterations), calculated their greenability and churn results, and performed correlation tests on multiple variables. 
 - Now in the process of expanding the data set and analysing the correlation test results.
+- finished!
